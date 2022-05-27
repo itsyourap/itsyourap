@@ -1,4 +1,4 @@
-Hi 👋 My name is Ankan Pal
+Hi 👋, My name is Ankan Pal
 ===============================
 
 I am a 17 year old student studying ISC, having a keen interest in contributing to Open Source and developing Android Apps.
