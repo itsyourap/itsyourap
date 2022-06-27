@@ -8,7 +8,7 @@ I've been learning to code since the last 4 years, started my journey by learnin
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsyourap@gmail.com](mailto:itsyourap@gmail.com)
-* 🧠  I'm learning Kotlin and Jetpack Compose right now
+* 🧠  I'm learning Data Structures and Algorithms right now
 * 🤝  I'm open to collaborating on all types of Open Source Projects
 * ⚡  I'm a Pluviophile, Ceraunophile and a Clinophile
 
