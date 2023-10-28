@@ -64,7 +64,7 @@ I've been learning to code since the last 6 years, started my journey by learnin
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 28th, 2023, 10:06:24 AM
+Last Updated: Saturday, October 28th, 2023, 10:42:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
