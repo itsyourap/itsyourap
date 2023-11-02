@@ -76,6 +76,10 @@ Last Updated: Thursday, November 2nd, 2023, 4:41:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br />
+
 ## 📈 Profile Statistics :
 
 <a href="https://github.com/itsyourap"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=itsyourap&color=red&style=for-the-badge"></a>
