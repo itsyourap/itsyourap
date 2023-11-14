@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#63](https://github.com/Swatigupta-droid/Basic-java/pull/63) in [Swatigupta-droid/Basic-java](https://github.com/Swatigupta-droid/Basic-java)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
-3. ⬆️ Pushed 2 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/CBTCIP](https://github.com/itsyourap/CBTCIP)<br>
+2. 💪 Opened PR [#63](https://github.com/Swatigupta-droid/Basic-java/pull/63) in [Swatigupta-droid/Basic-java](https://github.com/Swatigupta-droid/Basic-java)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
 4. ⬆️ Pushed 2 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
-5. ⬆️ Pushed 4 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
+5. ⬆️ Pushed 2 commit(s) to [itsyourap/Basic-java](https://github.com/itsyourap/Basic-java)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 15th, 2023, 12:06:17 AM
+Last Updated: Wednesday, November 15th, 2023, 12:39:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
