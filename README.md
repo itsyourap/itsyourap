@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/itsyourap/Tools-for-WhatsApp/pull/1) in [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
-2. ⬆️ Pushed 8 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
-3. ❗️ Opened issue [#3](https://github.com/bishakhne0gi/Spring-Crud/issues/3) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-4. ❗️ Opened issue [#2](https://github.com/bishakhne0gi/Spring-Crud/issues/2) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-5. ❗️ Opened issue [#2](https://github.com/darkard2003/cubeXtimerKotlin/issues/2) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
+1. 💪 Opened PR [#20](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/20) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
+2. ❌ Closed PR [#1](https://github.com/itsyourap/Tools-for-WhatsApp/pull/1) in [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
+3. ⬆️ Pushed 8 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
+4. ❗️ Opened issue [#3](https://github.com/bishakhne0gi/Spring-Crud/issues/3) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+5. ❗️ Opened issue [#2](https://github.com/bishakhne0gi/Spring-Crud/issues/2) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 5:06:22 PM
+Last Updated: Wednesday, January 3rd, 2024, 5:57:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
