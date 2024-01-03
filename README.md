@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/darkard2003/cubeXtimerKotlin/issues/3) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
-2. 💪 Opened PR [#6](https://github.com/bishakhne0gi/Spring-Crud/pull/6) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-3. 💪 Opened PR [#20](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/20) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
-4. ❌ Closed PR [#1](https://github.com/itsyourap/Tools-for-WhatsApp/pull/1) in [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
-5. ⬆️ Pushed 8 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+2. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+3. ❗️ Opened issue [#3](https://github.com/darkard2003/cubeXtimerKotlin/issues/3) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
+4. 💪 Opened PR [#6](https://github.com/bishakhne0gi/Spring-Crud/pull/6) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+5. 💪 Opened PR [#20](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/20) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 3rd, 2024, 10:42:50 PM
+Last Updated: Wednesday, January 3rd, 2024, 11:06:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
