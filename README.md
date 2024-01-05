@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#8](https://github.com/darkard2003/cubeXtimerKotlin/pull/8) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
-2. ⬆️ Pushed 4 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
-4. 💪 Opened PR [#7](https://github.com/darkard2003/cubeXtimerKotlin/pull/7) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
-5. ⬆️ Pushed 6 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
+1. 💪 Opened PR [#14](https://github.com/bishakhne0gi/Spring-Crud/pull/14) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+2. ❗️ Opened issue [#13](https://github.com/bishakhne0gi/Spring-Crud/issues/13) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+3. 💪 Opened PR [#8](https://github.com/darkard2003/cubeXtimerKotlin/pull/8) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
+4. ⬆️ Pushed 4 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 5th, 2024, 10:09:23 PM
+Last Updated: Friday, January 5th, 2024, 10:44:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
