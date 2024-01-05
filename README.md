@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
-3. 💪 Opened PR [#7](https://github.com/darkard2003/cubeXtimerKotlin/pull/7) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
-4. ⬆️ Pushed 6 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
-5. ⬆️ Pushed 4 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
+1. 💪 Opened PR [#8](https://github.com/darkard2003/cubeXtimerKotlin/pull/8) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
+2. ⬆️ Pushed 4 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
+4. 💪 Opened PR [#7](https://github.com/darkard2003/cubeXtimerKotlin/pull/7) in [darkard2003/cubeXtimerKotlin](https://github.com/darkard2003/cubeXtimerKotlin)<br>
+5. ⬆️ Pushed 6 commit(s) to [itsyourap/cubeXtimerKotlin](https://github.com/itsyourap/cubeXtimerKotlin)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 5th, 2024, 4:42:34 PM
+Last Updated: Friday, January 5th, 2024, 5:06:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
