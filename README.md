@@ -72,7 +72,7 @@ I've been learning to code since the last 6 years, started my journey by learnin
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 7th, 2024, 10:42:22 PM
+Last Updated: Sunday, January 7th, 2024, 11:06:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
