@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [itsyourap/Netflix-Sign-In-Page](https://github.com/itsyourap/Netflix-Sign-In-Page)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
-3. 💪 Opened PR [#27](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/27) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
-4. ⬆️ Pushed 1 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
-5. 💪 Opened PR [#26](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/26) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+2. ⬆️ Pushed 10 commit(s) to [itsyourap/Netflix-Sign-In-Page](https://github.com/itsyourap/Netflix-Sign-In-Page)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+4. 💪 Opened PR [#27](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/27) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 19th, 2024, 9:49:34 PM
+Last Updated: Friday, January 19th, 2024, 10:11:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
