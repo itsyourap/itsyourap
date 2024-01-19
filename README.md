@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#42](https://github.com/bishakhne0gi/Spring-Crud/issues/42) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-2. 💪 Opened PR [#41](https://github.com/bishakhne0gi/Spring-Crud/pull/41) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-3. ❗️ Opened issue [#40](https://github.com/bishakhne0gi/Spring-Crud/issues/40) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
-4. ⬆️ Pushed 4 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
-5. ⬆️ Pushed 17 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+1. 💪 Opened PR [#45](https://github.com/bishakhne0gi/Spring-Crud/pull/45) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+2. ❗️ Opened issue [#44](https://github.com/bishakhne0gi/Spring-Crud/issues/44) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+3. ⬆️ Pushed 4 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
+4. 💪 Opened PR [#43](https://github.com/bishakhne0gi/Spring-Crud/pull/43) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+5. ❗️ Opened issue [#42](https://github.com/bishakhne0gi/Spring-Crud/issues/42) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 20th, 2024, 12:07:54 AM
+Last Updated: Saturday, January 20th, 2024, 12:41:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
