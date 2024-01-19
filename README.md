@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
-2. ⬆️ Pushed 10 commit(s) to [itsyourap/Netflix-Sign-In-Page](https://github.com/itsyourap/Netflix-Sign-In-Page)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
-4. 💪 Opened PR [#27](https://github.com/anshu-choubey/Tools-for-WhatsApp/pull/27) in [anshu-choubey/Tools-for-WhatsApp](https://github.com/anshu-choubey/Tools-for-WhatsApp)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/Tools-for-WhatsApp](https://github.com/itsyourap/Tools-for-WhatsApp)<br>
+1. 💪 Opened PR [#39](https://github.com/bishakhne0gi/Spring-Crud/pull/39) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+2. ❗️ Opened issue [#38](https://github.com/bishakhne0gi/Spring-Crud/issues/38) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+3. 💪 Opened PR [#37](https://github.com/bishakhne0gi/Spring-Crud/pull/37) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+4. ❗️ Opened issue [#36](https://github.com/bishakhne0gi/Spring-Crud/issues/36) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 19th, 2024, 10:11:01 PM
+Last Updated: Friday, January 19th, 2024, 10:43:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
