@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
-4. ⬆️ Pushed 2 commit(s) to [itsyourap/Spring-Crud](https://github.com/itsyourap/Spring-Crud)<br>
-5. 💪 Opened PR [#62](https://github.com/bishakhne0gi/Spring-Crud/pull/62) in [bishakhne0gi/Spring-Crud](https://github.com/bishakhne0gi/Spring-Crud)<br>
+1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. 🎉 Merged PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. 💪 Opened PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 27th, 2024, 8:45:35 AM
+Last Updated: Tuesday, February 27th, 2024, 9:06:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
