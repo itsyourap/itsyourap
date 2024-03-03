@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-2. 🎉 Merged PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. 💪 Opened PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
+1. ❗️ Opened issue [#139](https://github.com/Prakash4844/Get-Pair-Extraordinaire/issues/139) in [Prakash4844/Get-Pair-Extraordinaire](https://github.com/Prakash4844/Get-Pair-Extraordinaire)<br>
+2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. 🎉 Merged PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. 💪 Opened PR [#37](https://github.com/JFC-Group/JF-Customisation/pull/37) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 3rd, 2024, 8:43:37 PM
+Last Updated: Sunday, March 3rd, 2024, 9:06:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
