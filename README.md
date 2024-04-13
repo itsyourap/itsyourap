@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+1. 💪 Opened PR [#22](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/22) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
 2. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 3. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 4. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-5. ❗️ Opened issue [#139](https://github.com/Prakash4844/Get-Pair-Extraordinaire/issues/139) in [Prakash4844/Get-Pair-Extraordinaire](https://github.com/Prakash4844/Get-Pair-Extraordinaire)<br>
+5. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 13th, 2024, 8:42:25 AM
+Last Updated: Saturday, April 13th, 2024, 9:06:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
