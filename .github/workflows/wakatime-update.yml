@@ -20,3 +20,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SECTION_NAME: "waka"
+          COMMIT_BY_ME: "True"
