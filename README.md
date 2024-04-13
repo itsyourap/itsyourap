@@ -76,6 +76,12 @@ Last Updated: Saturday, April 13th, 2024, 8:40:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
+## 🔄 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br />
+
 ## 📈 Profile Statistics :
 
 <a href="https://github.com/itsyourap"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=itsyourap&color=red&style=for-the-badge"></a>
