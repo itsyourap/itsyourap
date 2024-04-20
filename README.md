@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-2. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-3. 💪 Opened PR [#23](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/23) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
-4. ⬆️ Pushed 2 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-5. 💪 Opened PR [#22](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/22) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
+1. ⬆️ Pushed 2 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. 🎉 Merged PR [#41](https://github.com/JFC-Group/JF-Customisation/pull/41) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. 👍 Approved [#41](https://github.com/JFC-Group/JF-Customisation/pull/41#pullrequestreview-2012997964) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+5. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 20th, 2024, 7:33:32 AM
+Last Updated: Saturday, April 20th, 2024, 8:06:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
