@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 13 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-2. ⬆️ Pushed 14 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-3. 💪 Opened PR [#32](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/32) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
-4. ⬆️ Pushed 233 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-5. ⬆️ Pushed 2 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. 💪 Opened PR [#33](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/33) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
+2. ⬆️ Pushed 4 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
+3. ⬆️ Pushed 2 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
+4. ⬆️ Pushed 13 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
+5. ⬆️ Pushed 14 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 21st, 2024, 2:07:16 PM
+Last Updated: Sunday, April 21st, 2024, 2:45:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
