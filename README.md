@@ -155,7 +155,13 @@ TypeScript               4 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br />
 
-## 📈 Profile Statistics :
+## 📈 Profile Statistics
 
 <a href="https://github.com/itsyourap"><img height="30" title="Counter" src="https://komarev.com/ghpvc/?username=itsyourap&color=red&style=for-the-badge"></a>
 <br />
+
+## 💵 Sponsor my Work
+
+<a href="https://www.buymeacoffee.com/itsyourap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<br />
+
