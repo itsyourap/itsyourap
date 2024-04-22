@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#33](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website/pull/33) in [Student-Chapter-CSE/SC-CSE_Official_website](https://github.com/Student-Chapter-CSE/SC-CSE_Official_website)<br>
-2. ⬆️ Pushed 4 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-3. ⬆️ Pushed 2 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-4. ⬆️ Pushed 13 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
-5. ⬆️ Pushed 14 commit(s) to [itsyourap/SC-CSE_Official_website](https://github.com/itsyourap/SC-CSE_Official_website)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/ArgumentCatcher](https://github.com/itsyourap/ArgumentCatcher)<br>
+2. ⬆️ Pushed 1 commit(s) to [itsyourap/CustomBuildStepRemover](https://github.com/itsyourap/CustomBuildStepRemover)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/aot-1st-year-college-assignments](https://github.com/itsyourap/aot-1st-year-college-assignments)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/news-app-android](https://github.com/itsyourap/news-app-android)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 22nd, 2024, 11:06:03 AM
+Last Updated: Monday, April 22nd, 2024, 11:49:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
