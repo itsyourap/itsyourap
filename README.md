@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/ArgumentCatcher](https://github.com/itsyourap/ArgumentCatcher)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/CustomBuildStepRemover](https://github.com/itsyourap/CustomBuildStepRemover)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/aot-1st-year-college-assignments](https://github.com/itsyourap/aot-1st-year-college-assignments)<br>
-4. ⬆️ Pushed 1 commit(s) to [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/news-app-android](https://github.com/itsyourap/news-app-android)<br>
+1. ✔️ Closed issue [#34](https://github.com/JFC-Group/JF-Customisation/issues/34) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. ✔️ Closed issue [#36](https://github.com/JFC-Group/JF-Customisation/issues/36) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. ✔️ Closed issue [#38](https://github.com/JFC-Group/JF-Customisation/issues/38) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ✔️ Closed issue [#32](https://github.com/JFC-Group/JF-Customisation/issues/32) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ✔️ Closed issue [#33](https://github.com/JFC-Group/JF-Customisation/issues/33) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 24th, 2024, 9:06:30 PM
+Last Updated: Wednesday, April 24th, 2024, 9:47:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
