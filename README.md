@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#34](https://github.com/JFC-Group/JF-Customisation/issues/34) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-2. ✔️ Closed issue [#36](https://github.com/JFC-Group/JF-Customisation/issues/36) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ✔️ Closed issue [#38](https://github.com/JFC-Group/JF-Customisation/issues/38) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. ✔️ Closed issue [#32](https://github.com/JFC-Group/JF-Customisation/issues/32) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-5. ✔️ Closed issue [#33](https://github.com/JFC-Group/JF-Customisation/issues/33) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ⬆️ Pushed 11 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
+2. ⬆️ Pushed 10 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
+3. ✔️ Closed issue [#34](https://github.com/JFC-Group/JF-Customisation/issues/34) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ✔️ Closed issue [#36](https://github.com/JFC-Group/JF-Customisation/issues/36) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ✔️ Closed issue [#38](https://github.com/JFC-Group/JF-Customisation/issues/38) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 8th, 2024, 1:06:25 PM
+Last Updated: Wednesday, May 8th, 2024, 1:47:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
