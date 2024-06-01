@@ -83,7 +83,6 @@ Last Updated: Saturday, June 1st, 2024, 7:43:57 PM
 ```txt
 Total Time: 138 hrs 51 mins
 
-Other                      653 hrs 24 mins ████████████████████▓░░░░   82.47 %
 Kotlin                     27 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 TypeScript                 26 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 Bash                       21 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
