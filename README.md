@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v3.5.1](https://github.com/JFC-Group/JF-JioTV/releases/tag/v3.5.1-JF) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-2. ✌️ Released [mipsel-buildroot-linux-uclibc-toolchain-2015.08.1](https://github.com/JFC-Group/jf-buildroot/releases/tag/2015.08.1) in [JFC-Group/jf-buildroot](https://github.com/JFC-Group/jf-buildroot)<br>
-3. ❌ Closed PR [#1](https://github.com/JFC-Group/jiotv_go/pull/1) in [JFC-Group/jiotv_go](https://github.com/JFC-Group/jiotv_go)<br>
-4. ⬆️ Pushed 32 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
-5. ⬆️ Pushed 11 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
+1. ❌ Closed PR [#1](https://github.com/JFC-Group/JF-JioTV/pull/1) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+2. ✌️ Released [v3.5.1-JF](https://github.com/itsyourap/JF-JioTV/releases/tag/v3.5.1-JF) in [itsyourap/JF-JioTV](https://github.com/itsyourap/JF-JioTV)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/JF-JioTV](https://github.com/itsyourap/JF-JioTV)<br>
+4. ✌️ Released [v3.5.1](https://github.com/JFC-Group/JF-JioTV/releases/tag/v3.5.1-JF) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+5. ✌️ Released [mipsel-buildroot-linux-uclibc-toolchain-2015.08.1](https://github.com/JFC-Group/jf-buildroot/releases/tag/2015.08.1) in [JFC-Group/jf-buildroot](https://github.com/JFC-Group/jf-buildroot)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 1st, 2024, 5:08:07 PM
+Last Updated: Saturday, June 1st, 2024, 5:57:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
