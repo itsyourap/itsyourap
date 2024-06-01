@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
+1. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+2. 🎉 Merged PR [#18](https://github.com/Team-ByteWise/aot-website/pull/18) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+3. 👍 Approved [#18](https://github.com/Team-ByteWise/aot-website/pull/18#pullrequestreview-2092155164) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 4. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
 5. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 1st, 2024, 11:49:30 PM
+Last Updated: Sunday, June 2nd, 2024, 12:07:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
