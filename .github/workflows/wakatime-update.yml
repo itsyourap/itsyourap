@@ -25,6 +25,8 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_MASKED_TIME: false
+          IGNORED_LANGUAGES: Other
+          STOP_AT_OTHER: true
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
           COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
           AUTHOR_NAME: ${{ secrets.COMMITTER_NAME }}
