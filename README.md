@@ -83,15 +83,7 @@ Last Updated: Saturday, June 1st, 2024, 7:43:57 PM
 ```txt
 Total Time: 138 hrs 51 mins
 
-Kotlin                     27 hrs 2 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-TypeScript                 26 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Bash                       21 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Java                       15 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Docker                     7 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-PHP                        5 hrs 53 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Go                         5 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Markdown                   3 hrs 59 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Python                     3 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other                      653 hrs 24 mins ████████████████████▓░░░░   82.47 %
 ```
 
 <!--END_SECTION:waka-->
