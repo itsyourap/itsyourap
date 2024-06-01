@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/JFC-Group/jiotv_go/pull/1) in [JFC-Group/jiotv_go](https://github.com/JFC-Group/jiotv_go)<br>
-2. ⬆️ Pushed 32 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
-3. ⬆️ Pushed 11 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
-4. ⬆️ Pushed 10 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
-5. ✔️ Closed issue [#34](https://github.com/JFC-Group/JF-Customisation/issues/34) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ✌️ Released [mipsel-buildroot-linux-uclibc-toolchain-2015.08.1](https://github.com/JFC-Group/jf-buildroot/releases/tag/2015.08.1) in [JFC-Group/jf-buildroot](https://github.com/JFC-Group/jf-buildroot)<br>
+2. ❌ Closed PR [#1](https://github.com/JFC-Group/jiotv_go/pull/1) in [JFC-Group/jiotv_go](https://github.com/JFC-Group/jiotv_go)<br>
+3. ⬆️ Pushed 32 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
+4. ⬆️ Pushed 11 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
+5. ⬆️ Pushed 10 commit(s) to [itsyourap/hitman3-smf](https://github.com/itsyourap/hitman3-smf)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 1st, 2024, 2:06:39 PM
+Last Updated: Saturday, June 1st, 2024, 2:47:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
