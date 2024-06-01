@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: itsyourap/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Other # optional
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown Other # optional
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
           COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
           AUTHOR_NAME: ${{ secrets.COMMITTER_NAME }}
