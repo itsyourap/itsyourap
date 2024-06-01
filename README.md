@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-2. 🎉 Merged PR [#2](https://github.com/JFC-Group/JF-JioTV/pull/2) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-3. 💪 Opened PR [#3](https://github.com/JFC-Group/JF-JioTV/pull/3) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-4. 💪 Opened PR [#2](https://github.com/JFC-Group/JF-JioTV/pull/2) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-5. ❌ Closed PR [#1](https://github.com/JFC-Group/JF-JioTV/pull/1) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
+2. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/waka-readme](https://github.com/itsyourap/waka-readme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 1st, 2024, 9:06:20 PM
+Last Updated: Saturday, June 1st, 2024, 9:47:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
