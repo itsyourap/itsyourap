@@ -23,7 +23,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          IGNORE_OTHER_LANGUAGE: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML Markdown Other # optional
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
           COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
