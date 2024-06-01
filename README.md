@@ -80,7 +80,7 @@ Last Updated: Saturday, June 1st, 2024, 7:43:57 PM
 
 <!--START_SECTION:waka-->
 
-```txt
+```python
 From: 30 October 2023 - To: 31 May 2024
 
 Total Time: 138 hrs 51 mins
