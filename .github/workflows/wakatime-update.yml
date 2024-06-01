@@ -21,7 +21,7 @@ jobs:
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
+          SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML Other # optional
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
