@@ -80,10 +80,12 @@ Last Updated: Saturday, June 1st, 2024, 7:43:57 PM
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 30 October 2023 - To: 31 May 2024
+
 Total Time: 138 hrs 51 mins
 
-Other                      653 hrs 24 mins ████████████████████▓░░░░   82.47 %
+Other                      653 hrs 24 mins >>>>>>>>>>>>>>>>>>>>>----   82.47 %
 ```
 
 <!--END_SECTION:waka-->
