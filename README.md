@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-3. ⬆️ Pushed 6 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-4. ⬆️ Pushed 8 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
-5. ⬆️ Pushed 7 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
+1. 🎉 Merged PR [#19](https://github.com/Team-ByteWise/aot-website/pull/19) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+2. ⬆️ Pushed 4 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+5. ⬆️ Pushed 6 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 3rd, 2024, 12:44:48 PM
+Last Updated: Monday, June 3rd, 2024, 1:06:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
