@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+1. ✔️ Closed issue [#45](https://github.com/JFC-Group/JF-Customisation/issues/45) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-3. 🎉 Merged PR [#22](https://github.com/Team-ByteWise/aot-website/pull/22) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-5. 🎉 Merged PR [#21](https://github.com/Team-ByteWise/aot-website/pull/21) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+4. 🎉 Merged PR [#22](https://github.com/Team-ByteWise/aot-website/pull/22) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 4th, 2024, 9:07:09 AM
+Last Updated: Tuesday, June 4th, 2024, 9:48:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
