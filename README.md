@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+2. 🎉 Merged PR [#3](https://github.com/JFC-Group/JF-JioTV/pull/3) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 7th, 2024, 12:08:29 AM
+Last Updated: Friday, June 7th, 2024, 12:44:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
