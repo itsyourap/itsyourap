@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-2. 🎉 Merged PR [#3](https://github.com/JFC-Group/JF-JioTV/pull/3) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+1. 💪 Opened PR [#11](https://github.com/Sbiswas001/NumplexApp/pull/11) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+2. 💪 Opened PR [#10](https://github.com/Sbiswas001/NumplexApp/pull/10) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
 3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+4. 🎉 Merged PR [#3](https://github.com/JFC-Group/JF-JioTV/pull/3) in [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 7th, 2024, 9:06:17 PM
+Last Updated: Friday, June 7th, 2024, 9:48:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
