@@ -67,12 +67,12 @@ I've been learning to code since the last 6 years, started my journey by learnin
 1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-4. ⬆️ Pushed 3 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-5. 💪 Opened PR [#13](https://github.com/Sbiswas001/NumplexApp/pull/13) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 9th, 2024, 9:48:43 AM
+Last Updated: Sunday, June 9th, 2024, 10:07:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
