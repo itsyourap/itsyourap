@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](https://github.com/Sbiswas001/NumplexApp/pull/17) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-2. 💪 Opened PR [#16](https://github.com/Sbiswas001/NumplexApp/pull/16) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-3. 💪 Opened PR [#15](https://github.com/Sbiswas001/NumplexApp/pull/15) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-4. ⬆️ Pushed 9 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
-5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+3. 💪 Opened PR [#17](https://github.com/Sbiswas001/NumplexApp/pull/17) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+4. 💪 Opened PR [#16](https://github.com/Sbiswas001/NumplexApp/pull/16) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+5. 💪 Opened PR [#15](https://github.com/Sbiswas001/NumplexApp/pull/15) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 17th, 2024, 3:06:27 PM
+Last Updated: Monday, June 17th, 2024, 3:48:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
