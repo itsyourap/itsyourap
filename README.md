@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-2. ⬆️ Pushed 11 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-3. 🎉 Merged PR [#24](https://github.com/Team-ByteWise/aot-website/pull/24) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-4. 💪 Opened PR [#24](https://github.com/Team-ByteWise/aot-website/pull/24) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
-5. ⬆️ Pushed 4 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+1. ⬆️ Pushed 9 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+3. ⬆️ Pushed 11 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+4. 🎉 Merged PR [#24](https://github.com/Team-ByteWise/aot-website/pull/24) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+5. 💪 Opened PR [#24](https://github.com/Team-ByteWise/aot-website/pull/24) in [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 20th, 2024, 7:41:45 AM
+Last Updated: Thursday, June 20th, 2024, 8:14:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
