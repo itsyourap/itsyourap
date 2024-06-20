@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
-2. 💪 Opened PR [#19](https://github.com/Sbiswas001/NumplexApp/pull/19) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
-4. ⬆️ Pushed 9 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
-5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/aot-website](https://github.com/Team-ByteWise/aot-website)<br>
+1. 💪 Opened PR [#20](https://github.com/Sbiswas001/NumplexApp/pull/20) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+2. ⬆️ Pushed 2 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+3. 💪 Opened PR [#19](https://github.com/Sbiswas001/NumplexApp/pull/19) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+5. ⬆️ Pushed 9 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 20th, 2024, 11:06:09 AM
+Last Updated: Thursday, June 20th, 2024, 11:51:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
