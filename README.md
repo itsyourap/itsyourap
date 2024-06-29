@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-2. ⬆️ Pushed 8 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-3. ✔️ Closed issue [#49](https://github.com/JFC-Group/JF-Customisation/issues/49) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. 💪 Opened PR [#20](https://github.com/Sbiswas001/NumplexApp/pull/20) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-5. ⬆️ Pushed 2 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+1. ⬆️ Pushed 12 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+2. 🎉 Merged PR [#5](https://github.com/Team-ByteWise/hack4bengal/pull/5) in [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+3. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+4. ⬆️ Pushed 8 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+5. ✔️ Closed issue [#49](https://github.com/JFC-Group/JF-Customisation/issues/49) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 30th, 2024, 3:45:51 AM
+Last Updated: Sunday, June 30th, 2024, 4:06:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
