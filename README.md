@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-2. ⬆️ Pushed 12 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-3. 🎉 Merged PR [#5](https://github.com/Team-ByteWise/hack4bengal/pull/5) in [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-4. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
-5. ⬆️ Pushed 8 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+3. ⬆️ Pushed 12 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+4. 🎉 Merged PR [#5](https://github.com/Team-ByteWise/hack4bengal/pull/5) in [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+5. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 1st, 2024, 9:08:20 AM
+Last Updated: Monday, July 1st, 2024, 9:48:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
