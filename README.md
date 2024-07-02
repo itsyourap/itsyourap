@@ -64,15 +64,15 @@ I've been learning to code since the last 6 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-2. 🎉 Merged PR [#1](https://github.com/Team-ByteWise/wiseshield-ai/pull/1) in [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-3. 💪 Opened PR [#1](https://github.com/Team-ByteWise/wiseshield-ai/pull/1) in [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/hack4bengal](https://github.com/Team-ByteWise/hack4bengal)<br>
+1. 🎉 Merged PR [#2](https://github.com/Team-ByteWise/wiseshield-ai/pull/2) in [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+3. 💪 Opened PR [#2](https://github.com/Team-ByteWise/wiseshield-ai/pull/2) in [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/wiseshield-ai](https://github.com/itsyourap/wiseshield-ai)<br>
+5. ⬆️ Pushed 4 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 2nd, 2024, 4:43:29 PM
+Last Updated: Tuesday, July 2nd, 2024, 5:06:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
