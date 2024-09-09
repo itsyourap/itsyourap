@@ -6,7 +6,7 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 - 🌍 I'm based in West Bengal, India
 - ✉️ You can contact me at [itsyourap@gmail.com](mailto:itsyourap@gmail.com)
-- 🧠 I'm learning TypeScript and React right now
+- 🧠 I'm working on improving my skills further right now
 - 🤝 I'm open to collaborating on all types of Open Source Projects
 - ⚡ I have a good sense of humour
 
