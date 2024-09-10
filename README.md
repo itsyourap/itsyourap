@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 13 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-2. ✔️ Closed issue [#50](https://github.com/JFC-Group/JF-Customisation/issues/50) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ✔️ Closed issue [#53](https://github.com/JFC-Group/JF-Customisation/issues/53) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
-5. ⬆️ Pushed 18 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+1. ❗️ Opened issue [#421](https://github.com/rabilrbl/jiotv_go/issues/421) in [rabilrbl/jiotv_go](https://github.com/rabilrbl/jiotv_go)<br>
+2. ⬆️ Pushed 13 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+3. ✔️ Closed issue [#50](https://github.com/JFC-Group/JF-Customisation/issues/50) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ✔️ Closed issue [#53](https://github.com/JFC-Group/JF-Customisation/issues/53) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 11th, 2024, 1:48:56 AM
+Last Updated: Wednesday, September 11th, 2024, 2:07:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
