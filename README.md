@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#431](https://github.com/rabilrbl/jiotv_go/issues/431) in [rabilrbl/jiotv_go](https://github.com/rabilrbl/jiotv_go)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
-4. 💪 Opened PR [#434](https://github.com/rabilrbl/jiotv_go/pull/434) in [rabilrbl/jiotv_go](https://github.com/rabilrbl/jiotv_go)<br>
-5. ⬆️ Pushed 3 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
+1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+2. ⬆️ Pushed 56 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+3. ⬆️ Pushed 76 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+4. ✔️ Closed issue [#431](https://github.com/rabilrbl/jiotv_go/issues/431) in [rabilrbl/jiotv_go](https://github.com/rabilrbl/jiotv_go)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 19th, 2024, 5:07:10 PM
+Last Updated: Thursday, September 19th, 2024, 6:04:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
