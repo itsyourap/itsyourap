@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-3. ❌ Closed PR [#446](https://github.com/JioTV-Go/jiotv_go/pull/446) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
-4. 💪 Opened PR [#446](https://github.com/JioTV-Go/jiotv_go/pull/446) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
-5. ⬆️ Pushed 19 commit(s) to [itsyourap/jiotv_go](https://github.com/itsyourap/jiotv_go)<br>
+1. 💪 Opened PR [#22](https://github.com/Sbiswas001/NumplexApp/pull/22) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+2. ⬆️ Pushed 4 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+3. 💪 Opened PR [#21](https://github.com/Sbiswas001/NumplexApp/pull/21) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+4. ❌ Closed PR [#1](https://github.com/itsyourap/NumplexApp/pull/1) in [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+5. 💪 Opened PR [#1](https://github.com/itsyourap/NumplexApp/pull/1) in [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 7th, 2024, 11:10:50 AM
+Last Updated: Monday, October 7th, 2024, 11:56:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
