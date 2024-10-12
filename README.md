@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#59](https://github.com/JFC-Group/JF-Customisation/issues/59) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ✔️ Closed issue [#60](https://github.com/JFC-Group/JF-Customisation/issues/60) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 2. ✔️ Closed issue [#59](https://github.com/JFC-Group/JF-Customisation/issues/59) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ⬆️ Pushed 5 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
-4. 💪 Opened PR [#23](https://github.com/Sbiswas001/NumplexApp/pull/23) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-5. 💪 Opened PR [#22](https://github.com/Sbiswas001/NumplexApp/pull/22) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+3. ✔️ Closed issue [#59](https://github.com/JFC-Group/JF-Customisation/issues/59) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ⬆️ Pushed 5 commit(s) to [itsyourap/NumplexApp](https://github.com/itsyourap/NumplexApp)<br>
+5. 💪 Opened PR [#23](https://github.com/Sbiswas001/NumplexApp/pull/23) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 12th, 2024, 10:12:14 AM
+Last Updated: Saturday, October 12th, 2024, 10:46:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
