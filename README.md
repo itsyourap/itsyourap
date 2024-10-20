@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
-2. 🎉 Merged PR [#2](https://github.com/itsyourap/game-hub/pull/2) in [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
-3. 💪 Opened PR [#24](https://github.com/Sbiswas001/NumplexApp/pull/24) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
-4. ✔️ Closed issue [#60](https://github.com/JFC-Group/JF-Customisation/issues/60) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-5. ✔️ Closed issue [#59](https://github.com/JFC-Group/JF-Customisation/issues/59) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+2. ⬆️ Pushed 2 commit(s) to [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
+3. 🎉 Merged PR [#2](https://github.com/itsyourap/game-hub/pull/2) in [itsyourap/game-hub](https://github.com/itsyourap/game-hub)<br>
+4. 💪 Opened PR [#24](https://github.com/Sbiswas001/NumplexApp/pull/24) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)<br>
+5. ✔️ Closed issue [#60](https://github.com/JFC-Group/JF-Customisation/issues/60) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 20th, 2024, 3:07:20 PM
+Last Updated: Sunday, October 20th, 2024, 3:48:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
