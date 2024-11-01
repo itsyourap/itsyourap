@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 20 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+1. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 2. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-3. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-4. ⬆️ Pushed 1 commit(s) to [projectXcloud/go-wrtc](https://github.com/projectXcloud/go-wrtc)<br>
+3. ⬆️ Pushed 2 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+4. ⬆️ Pushed 20 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 5. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 1st, 2024, 11:08:52 PM
+Last Updated: Friday, November 1st, 2024, 11:54:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
