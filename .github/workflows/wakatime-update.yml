@@ -21,5 +21,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "True"
           SECTION_NAME: "waka"
-          COMMIT_USERNAME: ${{ secrets.COMMITTER_NAME }}
-          COMMIT_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
