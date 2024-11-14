@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-2. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+1. ✔️ Closed issue [#473](https://github.com/JioTV-Go/jiotv_go/issues/473) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 3. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-4. ⬆️ Pushed 2 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
-5. ⬆️ Pushed 20 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+4. ⬆️ Pushed 1 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
+5. ⬆️ Pushed 2 commit(s) to [projectXcloud/InfinityVNC](https://github.com/projectXcloud/InfinityVNC)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 15th, 2024, 4:48:50 AM
+Last Updated: Friday, November 15th, 2024, 5:08:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
