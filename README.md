@@ -66,14 +66,14 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
-2. ⬆️ Pushed 6 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
-3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+2. ⬆️ Pushed 2 commit(s) to [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
+3. 🎉 Merged PR [#9](https://github.com/JioTV-Go/jiotv_go_app/pull/9) in [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
+4. 💪 Opened PR [#9](https://github.com/JioTV-Go/jiotv_go_app/pull/9) in [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
 5. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 20th, 2024, 12:16:36 AM
+Last Updated: Wednesday, November 20th, 2024, 12:45:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
