@@ -80,7 +80,7 @@ Last Updated: Saturday, November 23rd, 2024, 12:16:04 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ Last Updated: Saturday, November 23rd, 2024, 12:16:04 AM
 
 > 📦 279.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,467 Contributions in the Year 2024
+> 🏆 1,473 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,44 +96,6 @@ Last Updated: Saturday, November 23rd, 2024, 12:16:04 AM
  > 
 > 🔑 49 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1015 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-🌆 Daytime                869 commits         ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌃 Evening                1665 commits        ███████████░░░░░░░░░░░░░░   43.55 % 
-🌙 Night                  274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   569 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Tuesday                  362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Wednesday                455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Thursday                 537 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   433 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 698 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Sunday                   769 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Kotlin                   23 hrs 14 mins      ██████████████████████░░░   89.90 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Groovy                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-XML                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-TOML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-
-🔥 Editors: 
-Android Studio           25 hrs 7 mins       ████████████████████████░   97.18 % 
-VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -151,7 +113,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 18:58:49 UTC
+ Last Updated on 22/11/2024 18:58:29 UTC
 <!--END_SECTION:waka-->
 <br />
 
