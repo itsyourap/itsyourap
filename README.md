@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
-2. ⬆️ Pushed 2 commit(s) to [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
-3. 🎉 Merged PR [#9](https://github.com/JioTV-Go/jiotv_go_app/pull/9) in [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
-4. 💪 Opened PR [#9](https://github.com/JioTV-Go/jiotv_go_app/pull/9) in [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
+1. ✔️ Closed issue [#74](https://github.com/JFC-Group/JF-Customisation/issues/74) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. ✔️ Closed issue [#74](https://github.com/JFC-Group/JF-Customisation/issues/74) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/jiotv_go_app](https://github.com/itsyourap/jiotv_go_app)<br>
+4. ⬆️ Pushed 2 commit(s) to [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
+5. 🎉 Merged PR [#9](https://github.com/JioTV-Go/jiotv_go_app/pull/9) in [JioTV-Go/jiotv_go_app](https://github.com/JioTV-Go/jiotv_go_app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 28th, 2024, 2:16:47 PM
+Last Updated: Thursday, November 28th, 2024, 2:50:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
