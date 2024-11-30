@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 0 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
-2. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/Aicteevent](https://github.com/itsyourap/Aicteevent)<br>
+1. ✔️ Closed issue [#3](https://github.com/JFC-Group/AF-Customisation/issues/3) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+2. ✔️ Closed issue [#5](https://github.com/JFC-Group/AF-Customisation/issues/5) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+3. ⬆️ Pushed 0 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
 4. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
-5. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/Aicteevent](https://github.com/itsyourap/Aicteevent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 30th, 2024, 11:55:27 AM
+Last Updated: Saturday, November 30th, 2024, 12:15:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
