@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/JFC-Group/AF-Customisation/issues/3) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-2. ✔️ Closed issue [#5](https://github.com/JFC-Group/AF-Customisation/issues/5) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-3. ⬆️ Pushed 0 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
-4. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/Aicte_event](https://github.com/Student-Chapter-CSE/Aicte_event)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/Aicteevent](https://github.com/itsyourap/Aicteevent)<br>
+1. ⬆️ Pushed 3 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+2. 🎉 Merged PR [#7](https://github.com/JFC-Group/AF-Customisation/pull/7) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+3. 👍 Approved [#7](https://github.com/JFC-Group/AF-Customisation/pull/7#pullrequestreview-2471310808) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+4. ✔️ Closed issue [#3](https://github.com/JFC-Group/AF-Customisation/issues/3) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+5. ✔️ Closed issue [#5](https://github.com/JFC-Group/AF-Customisation/issues/5) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 1st, 2024, 10:16:22 AM
+Last Updated: Sunday, December 1st, 2024, 10:48:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
