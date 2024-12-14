@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
+1. ✔️ Closed issue [#462](https://github.com/JioTV-Go/jiotv_go/issues/462) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
 2. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
-3. ⬆️ Pushed 3 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-4. 🎉 Merged PR [#7](https://github.com/JFC-Group/AF-Customisation/pull/7) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-5. 👍 Approved [#7](https://github.com/JFC-Group/AF-Customisation/pull/7#pullrequestreview-2471310808) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
+4. ⬆️ Pushed 3 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+5. 🎉 Merged PR [#7](https://github.com/JFC-Group/AF-Customisation/pull/7) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 14th, 2024, 1:06:34 PM
+Last Updated: Saturday, December 14th, 2024, 1:52:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
