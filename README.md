@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
-2. ✔️ Closed issue [#462](https://github.com/JioTV-Go/jiotv_go/issues/462) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
+1. ✔️ Closed issue [#480](https://github.com/JioTV-Go/jiotv_go/issues/480) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
+2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
+3. ✔️ Closed issue [#462](https://github.com/JioTV-Go/jiotv_go/issues/462) in [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go)<br>
 4. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
-5. ⬆️ Pushed 3 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/go-hoyolab](https://github.com/itsyourap/go-hoyolab)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 20th, 2024, 11:07:38 PM
+Last Updated: Friday, December 20th, 2024, 11:54:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
