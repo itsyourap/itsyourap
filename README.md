@@ -80,13 +80,13 @@ Last Updated: Monday, December 23rd, 2024, 12:10:34 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 283.7 kB Used in GitHub's Storage 
+> 📦 283.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,763 Contributions in the Year 2024
  > 
@@ -123,15 +123,15 @@ Sunday                   810 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               7 hrs 42 mins       ████████████████░░░░░░░░░   64.88 % 
-Kotlin                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JavaScript               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               4 hrs 55 mins       ███████████░░░░░░░░░░░░░░   42.67 % 
+YAML                     2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Kotlin                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 15 mins      ██████████████████████░░░   86.35 % 
-IntelliJ IDEA            1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+VS Code                  10 hrs 15 mins      ██████████████████████░░░   88.75 % 
+IntelliJ IDEA            1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -151,7 +151,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:57:12 UTC
+ Last Updated on 22/12/2024 18:58:10 UTC
 <!--END_SECTION:waka-->
 <br />
 
