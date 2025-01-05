@@ -80,13 +80,13 @@ Last Updated: Monday, January 6th, 2025, 12:11:03 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 283.9 kB Used in GitHub's Storage 
+> 📦 284.0 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2025
  > 
@@ -123,15 +123,15 @@ Sunday                   812 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.59 % 
-Java                     2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Python                   1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Python                   2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.65 % 
+Text                     1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   34.54 % 
+Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Java                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████░░░░░░░░   69.76 % 
-IntelliJ IDEA            2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.24 % 
+VS Code                  5 hrs               ███████████████████████░░   91.07 % 
+IntelliJ IDEA            29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -151,7 +151,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 18:57:01 UTC
+ Last Updated on 05/01/2025 18:57:59 UTC
 <!--END_SECTION:waka-->
 <br />
 
