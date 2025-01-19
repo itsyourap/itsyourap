@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
-2. 👍 Approved [#11](https://github.com/JFC-Group/AF-Customisation/pull/11#pullrequestreview-2534289447) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-3. ⬆️ Pushed 2 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-4. 🎉 Merged PR [#11](https://github.com/JFC-Group/AF-Customisation/pull/11) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-5. ✔️ Closed issue [#6](https://github.com/JFC-Group/AF-Customisation/issues/6) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+1. ⬆️ Pushed 3 commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+2. 🎉 Merged PR [#13](https://github.com/JFC-Group/AF-Customisation/pull/13) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+3. ⬆️ Pushed 1 commit(s) to [viraniac/AF-Customisation](https://github.com/viraniac/AF-Customisation)<br>
+4. 👍 Approved [#13](https://github.com/JFC-Group/AF-Customisation/pull/13#pullrequestreview-2561034251) in [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+5. ⬆️ Pushed 8 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 19th, 2025, 8:47:13 PM
+Last Updated: Sunday, January 19th, 2025, 9:06:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
