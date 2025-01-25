@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
-2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-microsip](https://github.com/JFC-Group/JF-microsip)<br>
-3. ⬆️ Pushed 1 commit(s) to [JFC-Group/pjproject](https://github.com/JFC-Group/pjproject)<br>
-4. ⬆️ Pushed 2 commit(s) to [JFC-Group/pjproject](https://github.com/JFC-Group/pjproject)<br>
-5. ✔️ Closed issue [#75](https://github.com/JFC-Group/JF-Customisation/issues/75) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ✌️ Released [ZF-v1.7.2-F-v16.6.5](https://github.com/itsyourap/ZygiskFrida/releases/tag/v1.7.2) in [itsyourap/ZygiskFrida](https://github.com/itsyourap/ZygiskFrida)<br>
+2. ⬆️ Pushed 9 commit(s) to [JFC-Group/JF-baresip](https://github.com/JFC-Group/JF-baresip)<br>
+3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-microsip](https://github.com/JFC-Group/JF-microsip)<br>
+4. ⬆️ Pushed 1 commit(s) to [JFC-Group/pjproject](https://github.com/JFC-Group/pjproject)<br>
+5. ⬆️ Pushed 2 commit(s) to [JFC-Group/pjproject](https://github.com/JFC-Group/pjproject)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 25th, 2025, 11:06:18 PM
+Last Updated: Saturday, January 25th, 2025, 11:51:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
