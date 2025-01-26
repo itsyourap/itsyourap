@@ -66,14 +66,14 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-2. ✔️ Closed issue [#78](https://github.com/JFC-Group/JF-Customisation/issues/78) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ✌️ Released [JFC SCT v1](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool/releases/tag/v1) in [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
+2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
+3. ✔️ Closed issue [#78](https://github.com/JFC-Group/JF-Customisation/issues/78) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ✌️ Released [JFC SCT v1](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool/releases/tag/v1) in [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
 5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 26th, 2025, 9:06:14 PM
+Last Updated: Sunday, January 26th, 2025, 9:49:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
