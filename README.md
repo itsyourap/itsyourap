@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [JFC SCT v1](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool/releases/tag/v1) in [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-2. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-3. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-5. ✔️ Closed issue [#78](https://github.com/JFC-Group/JF-Customisation/issues/78) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+2. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+4. ✌️ Released [JFC SCT v1](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool/releases/tag/v1) in [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
+5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 28th, 2025, 5:07:10 PM
+Last Updated: Tuesday, January 28th, 2025, 6:04:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
