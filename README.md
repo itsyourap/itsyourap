@@ -80,13 +80,13 @@ Last Updated: Thursday, January 30th, 2025, 12:12:57 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 284.3 kB Used in GitHub's Storage 
+> 📦 284.2 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2025
  > 
@@ -123,16 +123,16 @@ Sunday                   819 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.22 % 
-Kotlin                   9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Batchfile                1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-C++                      1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Python                   12 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   40.48 % 
+Kotlin                   7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+TypeScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Batchfile                1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 21 mins      ████████████████░░░░░░░░░   64.27 % 
-Android Studio           10 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   34.47 % 
-IntelliJ IDEA            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  21 hrs 50 mins      ██████████████████░░░░░░░   71.51 % 
+Android Studio           8 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+IntelliJ IDEA            24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -152,7 +152,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 18:58:06 UTC
+ Last Updated on 29/01/2025 18:57:02 UTC
 <!--END_SECTION:waka-->
 <br />
 
