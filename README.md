@@ -80,13 +80,15 @@ Last Updated: Monday, February 3rd, 2025, 12:11:30 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 284.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 30 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,15 +123,16 @@ Sunday                   819 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   12 hrs 31 mins      █████████████░░░░░░░░░░░░   50.20 % 
-PowerShell               2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Batchfile                1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Text                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Java                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Python                   7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.49 % 
+PowerShell               2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Batchfile                2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Java                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 48 mins      ███████████████████████░░   91.38 % 
-IntelliJ IDEA            2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+VS Code                  17 hrs 35 mins      █████████████████████░░░░   85.08 % 
+IntelliJ IDEA            2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Android Studio           56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -149,7 +152,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:57:08 UTC
+ Last Updated on 02/02/2025 18:57:03 UTC
 <!--END_SECTION:waka-->
 <br />
 
