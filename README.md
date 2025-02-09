@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+1. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
 3. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
-4. ✌️ Released [JFC SCT v1](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool/releases/tag/v1) in [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
-5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JFC-SIP-Configuration-Tool](https://github.com/JFC-Group/JFC-SIP-Configuration-Tool)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+5. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 9th, 2025, 6:56:23 AM
+Last Updated: Sunday, February 9th, 2025, 8:08:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
