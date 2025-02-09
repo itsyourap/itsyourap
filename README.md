@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
-2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/frosthacks](https://github.com/itsyourap/frosthacks)<br>
+2. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
+3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/frosthacks](https://github.com/Team-ByteWise/frosthacks)<br>
 4. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
 5. ⬆️ Pushed 1 commit(s) to [itsyourap/resiprocate](https://github.com/itsyourap/resiprocate)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 9th, 2025, 9:09:58 AM
+Last Updated: Sunday, February 9th, 2025, 9:50:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
