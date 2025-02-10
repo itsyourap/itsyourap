@@ -42,7 +42,7 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 <p align="left">
    <a href="https://linkedin.com/in/itsyourap" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsyourap" height="30" width="40" /></a>&ensp;
-   <a href="https://instagram.com/__itsyourap__" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsyourap_" height="30" width="40" /></a>&ensp;
+   <a href="https://instagram.com/itsyourap" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsyourap_" height="30" width="40" /></a>&ensp;
    <a href="https://fb.com/itsyourap" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsyourap" height="30" width="40" /></a>&ensp;
    <a href="https://dev.to/itsyourap" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itsyourap" height="30" width="40" /></a>
    <a href="https://medium.com/@itsyourap" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@itsyourap" height="30" width="40" /></a>
