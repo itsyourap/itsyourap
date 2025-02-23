@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-2. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-3. ⬆️ Pushed 0 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-4. ⬆️ Pushed 6 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-5. ⬆️ Pushed 1 commit(s) to [itsyourap/frosthacks](https://github.com/itsyourap/frosthacks)<br>
+1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+3. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+4. ⬆️ Pushed 0 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+5. ⬆️ Pushed 6 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 23rd, 2025, 4:44:12 PM
+Last Updated: Sunday, February 23rd, 2025, 5:08:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
