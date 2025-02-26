@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/Team-ByteWise/EcoNFT/issues/1) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-2. ✔️ Closed issue [#1](https://github.com/JFC-Group/JFC-microsip/issues/1) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/EcoNFT](https://github.com/itsyourap/EcoNFT)<br>
-4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+1. ❗️ Opened issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. ❗️ Opened issue [#1](https://github.com/Team-ByteWise/EcoNFT/issues/1) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+3. ✔️ Closed issue [#1](https://github.com/JFC-Group/JFC-microsip/issues/1) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/EcoNFT](https://github.com/itsyourap/EcoNFT)<br>
 5. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 11:09:39 AM
+Last Updated: Wednesday, February 26th, 2025, 11:56:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
