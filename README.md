@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-3. ❗️ Opened issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-4. ❗️ Opened issue [#1](https://github.com/Team-ByteWise/EcoNFT/issues/1) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-5. ✔️ Closed issue [#1](https://github.com/JFC-Group/JFC-microsip/issues/1) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
+1. 🤝 Became collaborator on [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
+2. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+4. ❗️ Opened issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+5. ❗️ Opened issue [#1](https://github.com/Team-ByteWise/EcoNFT/issues/1) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 28th, 2025, 3:49:41 PM
+Last Updated: Friday, February 28th, 2025, 4:11:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
