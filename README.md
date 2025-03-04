@@ -80,13 +80,13 @@ Last Updated: Wednesday, March 5th, 2025, 12:17:30 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C463%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 284.1 kB Used in GitHub's Storage 
+> 📦 284.2 kB Used in GitHub's Storage 
  > 
 > 🏆 213 Contributions in the Year 2025
  > 
@@ -123,14 +123,14 @@ Sunday                   950 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 45 mins      █████████████████░░░░░░░░   66.21 % 
-Python                   2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Prisma                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TypeScript               16 hrs 45 mins      █████████████████░░░░░░░░   69.75 % 
+Python                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Prisma                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -150,7 +150,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 03/03/2025 18:57:32 UTC
+ Last Updated on 04/03/2025 18:58:25 UTC
 <!--END_SECTION:waka-->
 <br />
 
