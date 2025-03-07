@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](https://github.com/developer-diganta/express-project-generator/pull/6) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
-2. 💪 Opened PR [#5](https://github.com/developer-diganta/express-project-generator/pull/5) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
-3. ❗️ Opened issue [#4](https://github.com/developer-diganta/express-project-generator/issues/4) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
-4. ⬆️ Pushed 20 commit(s) to [itsyourap/llmware](https://github.com/itsyourap/llmware)<br>
-5. 🤝 Became collaborator on [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
+1. ❗️ Opened issue [#2](https://github.com/Aratrik123/Employee_management_system/issues/2) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+2. 💪 Opened PR [#6](https://github.com/developer-diganta/express-project-generator/pull/6) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
+3. 💪 Opened PR [#5](https://github.com/developer-diganta/express-project-generator/pull/5) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
+4. ❗️ Opened issue [#4](https://github.com/developer-diganta/express-project-generator/issues/4) in [developer-diganta/express-project-generator](https://github.com/developer-diganta/express-project-generator)<br>
+5. ⬆️ Pushed 20 commit(s) to [itsyourap/llmware](https://github.com/itsyourap/llmware)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 8th, 2025, 12:44:52 AM
+Last Updated: Saturday, March 8th, 2025, 1:07:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
