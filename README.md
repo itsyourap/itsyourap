@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#17](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/17) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
-2. 💪 Opened PR [#16](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/16) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
-3. 💪 Opened PR [#15](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/15) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
-4. ❗️ Opened issue [#14](https://github.com/Ayushjhawar8/Sorting-Visualiser/issues/14) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
-5. ❗️ Opened issue [#13](https://github.com/Ayushjhawar8/Sorting-Visualiser/issues/13) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
+1. 💪 Opened PR [#3](https://github.com/Aratrik123/Employee_management_system/pull/3) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+2. 💪 Opened PR [#17](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/17) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
+3. 💪 Opened PR [#16](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/16) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
+4. 💪 Opened PR [#15](https://github.com/Ayushjhawar8/Sorting-Visualiser/pull/15) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
+5. ❗️ Opened issue [#14](https://github.com/Ayushjhawar8/Sorting-Visualiser/issues/14) in [Ayushjhawar8/Sorting-Visualiser](https://github.com/Ayushjhawar8/Sorting-Visualiser)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 8th, 2025, 7:42:38 PM
+Last Updated: Saturday, March 8th, 2025, 8:07:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
