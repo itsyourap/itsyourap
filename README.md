@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11](https://github.com/Aratrik123/Employee_management_system/pull/11) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+1. ❗️ Opened issue [#1](https://github.com/Skythrill256/auth2/issues/1) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
+2. 💪 Opened PR [#11](https://github.com/Aratrik123/Employee_management_system/pull/11) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
 3. ⬆️ Pushed 1 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-4. ⬆️ Pushed 2 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-5. ❗️ Opened issue [#10](https://github.com/Aratrik123/Employee_management_system/issues/10) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+5. ⬆️ Pushed 2 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 9th, 2025, 10:06:35 AM
+Last Updated: Sunday, March 9th, 2025, 10:44:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
