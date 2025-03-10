@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
-2. ❗️ Opened issue [#3](https://github.com/Skythrill256/auth2/issues/3) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
-3. 💪 Opened PR [#2](https://github.com/Skythrill256/auth2/pull/2) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
-4. ❗️ Opened issue [#1](https://github.com/Skythrill256/auth2/issues/1) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
-5. 💪 Opened PR [#11](https://github.com/Aratrik123/Employee_management_system/pull/11) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+1. 🔴 Requested changes in [#7](https://github.com/Team-ByteWise/EcoNFT/pull/7#pullrequestreview-2671067125) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2671060749) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+3. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2671032515) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+4. 🤝 Became collaborator on [Team-ByteWise/wiseshield-ai](https://github.com/Team-ByteWise/wiseshield-ai)<br>
+5. ❗️ Opened issue [#3](https://github.com/Skythrill256/auth2/issues/3) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 10th, 2025, 11:09:28 PM
+Last Updated: Monday, March 10th, 2025, 11:55:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
