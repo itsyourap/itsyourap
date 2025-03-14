@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14](https://github.com/Skythrill256/auth2/issues/14) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
-2. ❗️ Opened issue [#13](https://github.com/Skythrill256/auth2/issues/13) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
-3. ⬆️ Pushed 4 commit(s) to [itsyourap/auth2](https://github.com/itsyourap/auth2)<br>
-4. ⬆️ Pushed 7 commit(s) to [itsyourap/auth2](https://github.com/itsyourap/auth2)<br>
-5. ⬆️ Pushed 6 commit(s) to [itsyourap/auth2](https://github.com/itsyourap/auth2)<br>
+1. 💪 Opened PR [#16](https://github.com/Skythrill256/auth2/pull/16) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
+2. 💪 Opened PR [#15](https://github.com/Skythrill256/auth2/pull/15) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
+3. ❗️ Opened issue [#14](https://github.com/Skythrill256/auth2/issues/14) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
+4. ❗️ Opened issue [#13](https://github.com/Skythrill256/auth2/issues/13) in [Skythrill256/auth2](https://github.com/Skythrill256/auth2)<br>
+5. ⬆️ Pushed 4 commit(s) to [itsyourap/auth2](https://github.com/itsyourap/auth2)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 14th, 2025, 8:12:28 AM
+Last Updated: Friday, March 14th, 2025, 8:58:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
