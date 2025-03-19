@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 43 commit(s) to [itsyourap/android_kernel_realme_sm8250](https://github.com/itsyourap/android_kernel_realme_sm8250)<br>
-2. 💪 Opened PR [#20](https://github.com/Aratrik123/Employee_management_system/pull/20) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-4. ⬆️ Pushed 5 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-5. ❗️ Opened issue [#19](https://github.com/Aratrik123/Employee_management_system/issues/19) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+1. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+2. ✔️ Closed issue [#1](https://github.com/Team-ByteWise/EcoGrow/issues/1) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+3. 🎉 Merged PR [#2](https://github.com/Team-ByteWise/EcoGrow/pull/2) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+4. 🔴 Requested changes in [#4](https://github.com/Team-ByteWise/EcoGrow/pull/4#pullrequestreview-2694445440) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+5. ⬆️ Pushed 43 commit(s) to [itsyourap/android_kernel_realme_sm8250](https://github.com/itsyourap/android_kernel_realme_sm8250)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 19th, 2025, 5:07:13 AM
+Last Updated: Wednesday, March 19th, 2025, 7:05:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
