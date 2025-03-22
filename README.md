@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#28](https://github.com/Aratrik123/Employee_management_system/issues/28) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-2. ❗️ Opened issue [#27](https://github.com/Aratrik123/Employee_management_system/issues/27) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-3. ✔️ Closed issue [#4](https://github.com/Team-ByteWise/EcoNFT/issues/4) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-4. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708100961) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-5. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2708100469) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+1. ❗️ Opened issue [#29](https://github.com/Aratrik123/Employee_management_system/issues/29) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+2. ❗️ Opened issue [#28](https://github.com/Aratrik123/Employee_management_system/issues/28) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+3. ❗️ Opened issue [#27](https://github.com/Aratrik123/Employee_management_system/issues/27) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+4. ✔️ Closed issue [#4](https://github.com/Team-ByteWise/EcoNFT/issues/4) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+5. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708100961) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 22nd, 2025, 11:06:33 PM
+Last Updated: Saturday, March 22nd, 2025, 11:54:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
