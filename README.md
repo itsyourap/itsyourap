@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#26](https://github.com/Aratrik123/Employee_management_system/pull/26) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-3. 💪 Opened PR [#25](https://github.com/Aratrik123/Employee_management_system/pull/25) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-4. 💪 Opened PR [#24](https://github.com/Aratrik123/Employee_management_system/pull/24) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-5. ⬆️ Pushed 3 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+1. ✔️ Closed issue [#4](https://github.com/Team-ByteWise/EcoNFT/issues/4) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708100961) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+3. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2708100469) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+4. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+5. 🎉 Merged PR [#7](https://github.com/Team-ByteWise/EcoNFT/pull/7) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 22nd, 2025, 10:11:43 PM
+Last Updated: Saturday, March 22nd, 2025, 10:44:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
