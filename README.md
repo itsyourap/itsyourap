@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#29](https://github.com/Aratrik123/Employee_management_system/issues/29) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-2. ❗️ Opened issue [#28](https://github.com/Aratrik123/Employee_management_system/issues/28) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-3. ❗️ Opened issue [#27](https://github.com/Aratrik123/Employee_management_system/issues/27) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-4. ✔️ Closed issue [#4](https://github.com/Team-ByteWise/EcoNFT/issues/4) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-5. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708100961) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+1. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708425586) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. ⬆️ Pushed 11 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+3. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2708423382) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+4. ❗️ Opened issue [#29](https://github.com/Aratrik123/Employee_management_system/issues/29) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+5. ❗️ Opened issue [#28](https://github.com/Aratrik123/Employee_management_system/issues/28) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 23rd, 2025, 7:11:16 AM
+Last Updated: Sunday, March 23rd, 2025, 8:32:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
