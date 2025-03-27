@@ -66,14 +66,14 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-2. ⬆️ Pushed 2 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/CTF-frontend](https://github.com/Student-Chapter-CSE/CTF-frontend)<br>
-4. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-5. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2708425586) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. ⬆️ Pushed 0 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
+3. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
+4. ⬆️ Pushed 2 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
+5. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/CTF-frontend](https://github.com/Student-Chapter-CSE/CTF-frontend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 28th, 2025, 12:45:41 AM
+Last Updated: Friday, March 28th, 2025, 1:07:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
