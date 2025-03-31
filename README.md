@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-2. ⬆️ Pushed 0 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-3. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-4. ⬆️ Pushed 2 commit(s) to [Student-Chapter-CSE/treasurehunt-ctf-backend](https://github.com/Student-Chapter-CSE/treasurehunt-ctf-backend)<br>
-5. ⬆️ Pushed 1 commit(s) to [Student-Chapter-CSE/CTF-frontend](https://github.com/Student-Chapter-CSE/CTF-frontend)<br>
+1. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2728356281) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2728354637) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+3. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+4. ✔️ Closed issue [#5](https://github.com/Team-ByteWise/EcoGrow/issues/5) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+5. 🎉 Merged PR [#6](https://github.com/Team-ByteWise/EcoGrow/pull/6) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 31st, 2025, 11:59:02 AM
+Last Updated: Monday, March 31st, 2025, 12:19:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
