@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2728356281) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-2. 🔴 Requested changes in [#8](https://github.com/Team-ByteWise/EcoNFT/pull/8#pullrequestreview-2728354637) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-3. ⬆️ Pushed 2 commit(s) to [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-4. ✔️ Closed issue [#5](https://github.com/Team-ByteWise/EcoGrow/issues/5) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-5. 🎉 Merged PR [#6](https://github.com/Team-ByteWise/EcoGrow/pull/6) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+1. ✔️ Closed issue [#13](https://github.com/Team-ByteWise/EcoNFT/issues/13) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+2. 🎉 Merged PR [#15](https://github.com/Team-ByteWise/EcoNFT/pull/15) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+3. ⬆️ Pushed 1 commit(s) to [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+4. ✔️ Closed issue [#14](https://github.com/Team-ByteWise/EcoNFT/issues/14) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+5. 🔴 Requested changes in [#6](https://github.com/Team-ByteWise/EcoNFT/pull/6#pullrequestreview-2728356281) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 6th, 2025, 11:08:27 PM
+Last Updated: Sunday, April 6th, 2025, 11:54:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
