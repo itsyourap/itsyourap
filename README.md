@@ -86,9 +86,9 @@ Last Updated: Tuesday, April 8th, 2025, 12:16:47 AM
 
 **🐱 My GitHub Data** 
 
-> 📦 285.2 kB Used in GitHub's Storage 
+> 📦 285.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 552 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,6 +96,39 @@ Last Updated: Tuesday, April 8th, 2025, 12:16:47 AM
  > 
 > 🔑 57 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1319 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌆 Daytime                1063 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌃 Evening                1933 commits        ██████████░░░░░░░░░░░░░░░   41.66 % 
+🌙 Night                  325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  460 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Wednesday                463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Thursday                 689 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Saturday                 878 commits         █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Sunday                   956 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -113,7 +146,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2025 18:57:33 UTC
+ Last Updated on 07/04/2025 18:57:50 UTC
 <!--END_SECTION:waka-->
 <br />
 
