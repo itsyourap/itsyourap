@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 6 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
-2. 💪 Opened PR [#41](https://github.com/Aratrik123/Employee_management_system/pull/41) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-3. ❗️ Opened issue [#40](https://github.com/Aratrik123/Employee_management_system/issues/40) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-4. 💪 Opened PR [#39](https://github.com/Aratrik123/Employee_management_system/pull/39) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
-5. ❗️ Opened issue [#38](https://github.com/Aratrik123/Employee_management_system/issues/38) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+1. ⬆️ Pushed 2 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+2. 💪 Opened PR [#43](https://github.com/Aratrik123/Employee_management_system/pull/43) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+3. ❗️ Opened issue [#42](https://github.com/Aratrik123/Employee_management_system/issues/42) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
+4. ⬆️ Pushed 6 commit(s) to [itsyourap/Employee_management_system](https://github.com/itsyourap/Employee_management_system)<br>
+5. 💪 Opened PR [#41](https://github.com/Aratrik123/Employee_management_system/pull/41) in [Aratrik123/Employee_management_system](https://github.com/Aratrik123/Employee_management_system)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 13th, 2025, 7:28:21 AM
+Last Updated: Sunday, April 13th, 2025, 9:39:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
