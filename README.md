@@ -80,7 +80,7 @@ Last Updated: Tuesday, April 29th, 2025, 12:19:23 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C616%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
@@ -88,13 +88,13 @@ Last Updated: Tuesday, April 29th, 2025, 12:19:23 AM
 
 > 📦 412.9 kB Used in GitHub's Storage 
  > 
-> 🏆 879 Contributions in the Year 2025
+> 🏆 867 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 73 Private Repositories 
+> 🔑 72 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -123,15 +123,15 @@ Sunday                   991 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Python                   3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-C                        3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Docker                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Go                       1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+YAML                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+C                        2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Docker                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Python                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 57 mins      █████████████████████░░░░   84.19 % 
-Android Studio           3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+VS Code                  20 hrs 36 mins      █████████████████████░░░░   83.86 % 
+Android Studio           3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
@@ -152,7 +152,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2025 18:57:51 UTC
+ Last Updated on 28/04/2025 18:59:32 UTC
 <!--END_SECTION:waka-->
 <br />
 
