@@ -168,9 +168,3 @@ PHP                      5 repos             █░░░░░░░░░░�
 
 
 ![](https://hit.yhype.me/github/profile?user_id=90060131)
-
-
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=itsyourap/itsyourap@github)](https://gitads.dev/v1/ad-track?source=itsyourap/itsyourap@github)
-
-
