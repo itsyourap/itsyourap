@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/ZygiskFrida](https://github.com/itsyourap/ZygiskFrida)<br>
+1. ✔️ Closed issue [#81](https://github.com/JFC-Group/JF-Customisation/issues/81) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 2. ⬆️ Pushed 1 commit(s) to [itsyourap/ZygiskFrida](https://github.com/itsyourap/ZygiskFrida)<br>
 3. ⬆️ Pushed 1 commit(s) to [itsyourap/ZygiskFrida](https://github.com/itsyourap/ZygiskFrida)<br>
-4. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/ZygiskFrida](https://github.com/itsyourap/ZygiskFrida)<br>
 5. ⬆️ Pushed 1 commit(s) to [JFC-Group/JF-JioTV](https://github.com/JFC-Group/JF-JioTV)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 3rd, 2025, 10:14:19 PM
+Last Updated: Saturday, May 3rd, 2025, 10:45:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
