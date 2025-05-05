@@ -80,7 +80,7 @@ Last Updated: Tuesday, May 6th, 2025, 12:16:26 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C635%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ Last Updated: Tuesday, May 6th, 2025, 12:16:26 AM
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 875 Contributions in the Year 2025
+> 🏆 876 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,16 +123,16 @@ Sunday                   992 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Kotlin                   4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-YAML                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Bash                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Kotlin                   4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.98 % 
+Python                   1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Java                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+CSV                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 48 mins      ████████████████░░░░░░░░░   64.19 % 
-Android Studio           4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
-IntelliJ IDEA            1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+VS Code                  8 hrs 12 mins       ██████████████░░░░░░░░░░░   57.08 % 
+Android Studio           4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
+IntelliJ IDEA            1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -152,7 +152,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 18:58:12 UTC
+ Last Updated on 05/05/2025 18:59:19 UTC
 <!--END_SECTION:waka-->
 <br />
 
