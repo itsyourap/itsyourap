@@ -80,7 +80,7 @@ Last Updated: Saturday, May 31st, 2025, 12:20:38 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C670%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
 
@@ -88,7 +88,7 @@ Last Updated: Saturday, May 31st, 2025, 12:20:38 AM
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 955 Contributions in the Year 2025
+> 🏆 956 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -123,14 +123,14 @@ Sunday                   993 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Nix                      9 hrs 12 mins       ██████████████░░░░░░░░░░░   56.41 % 
-Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Other                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Nix                      8 hrs 5 mins        ██████████████░░░░░░░░░░░   55.69 % 
+Other                    1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+YAML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Makefile                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 18 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -150,7 +150,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2025 19:03:17 UTC
+ Last Updated on 30/05/2025 19:02:09 UTC
 <!--END_SECTION:waka-->
 <br />
 
