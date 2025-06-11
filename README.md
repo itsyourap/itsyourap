@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#23481](https://github.com/is-a-dev/register/pull/23481) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/realme_GT-Neo3T-AndroidU-kernel](https://github.com/itsyourap/realme_GT-Neo3T-AndroidU-kernel)<br>
-4. ⬆️ Pushed 1 commit(s) to [itsyourap/realme_GT-Neo3T-AndroidU-kernel-source](https://github.com/itsyourap/realme_GT-Neo3T-AndroidU-kernel-source)<br>
+1. ⬆️ Pushed 1 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
+2. ⬆️ Pushed 120 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
+3. 💪 Opened PR [#23481](https://github.com/is-a-dev/register/pull/23481) in [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+4. ⬆️ Pushed 1 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
 5. ⬆️ Pushed 1 commit(s) to [itsyourap/realme_GT-Neo3T-AndroidU-kernel](https://github.com/itsyourap/realme_GT-Neo3T-AndroidU-kernel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 12:00:25 AM
+Last Updated: Thursday, June 12th, 2025, 12:46:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
