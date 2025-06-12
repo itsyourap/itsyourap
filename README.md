@@ -80,22 +80,59 @@ Last Updated: Friday, June 13th, 2025, 12:21:41 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C689%20hrs%2037%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 972 Contributions in the Year 2025
+> 🏆 991 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 89 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1480 commits        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌆 Daytime                1154 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+🌃 Evening                2098 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
+🌙 Night                  330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Tuesday                  511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Wednesday                507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Thursday                 836 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Saturday                 917 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+Sunday                   998 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   7 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.89 % 
+HTML                     4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Prisma                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -113,7 +150,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2025 19:03:29 UTC
+ Last Updated on 12/06/2025 19:02:42 UTC
 <!--END_SECTION:waka-->
 <br />
 
