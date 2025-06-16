@@ -66,14 +66,14 @@ I've been learning to code since the last 7 years, started my journey by learnin
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
-2. ✔️ Closed issue [#93](https://github.com/JFC-Group/JF-Customisation/issues/93) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ✔️ Closed issue [#92](https://github.com/JFC-Group/JF-Customisation/issues/92) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-4. ⬆️ Pushed 1 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
-5. ⬆️ Pushed 120 commit(s) to [itsyourap/register](https://github.com/itsyourap/register)<br>
+2. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
+3. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
+4. ✔️ Closed issue [#93](https://github.com/JFC-Group/JF-Customisation/issues/93) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ✔️ Closed issue [#92](https://github.com/JFC-Group/JF-Customisation/issues/92) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 17th, 2025, 3:10:21 AM
+Last Updated: Tuesday, June 17th, 2025, 3:49:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
