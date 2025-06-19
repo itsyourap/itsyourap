@@ -80,7 +80,7 @@ Last Updated: Friday, June 20th, 2025, 12:21:05 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C721%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C723%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
 
@@ -123,14 +123,14 @@ Sunday                   1020 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   18 hrs 57 mins      ███████████████░░░░░░░░░░   58.63 % 
-Text                     3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-C                        2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Markdown                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Python                   19 hrs 36 mins      ███████████████░░░░░░░░░░   58.08 % 
+Text                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+C                        2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -150,7 +150,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 19:03:48 UTC
+ Last Updated on 19/06/2025 19:01:53 UTC
 <!--END_SECTION:waka-->
 <br />
 
