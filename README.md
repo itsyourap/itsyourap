@@ -80,7 +80,7 @@ Last Updated: Friday, July 4th, 2025, 12:22:22 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.4%20million%20lines%20of%20code-blue)
 
@@ -123,14 +123,14 @@ Sunday                   1097 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      7 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.73 % 
-Other                    4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-YAML                     4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-TypeScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+PHP                      11 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   41.01 % 
+YAML                     4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Other                    4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+TypeScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Apache Config            1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -150,7 +150,7 @@ Nix                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 19:04:32 UTC
+ Last Updated on 03/07/2025 19:03:16 UTC
 <!--END_SECTION:waka-->
 <br />
 
