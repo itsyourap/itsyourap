@@ -65,13 +65,10 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
-2. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
-3. ⬆️ Pushed 1 commit(s) to [itsyourap/sem4_daa](https://github.com/itsyourap/sem4_daa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 17th, 2025, 11:19:07 AM
+Last Updated: Thursday, July 17th, 2025, 12:03:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
