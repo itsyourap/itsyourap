@@ -77,13 +77,15 @@ Last Updated: Friday, August 1st, 2025, 12:03:53 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C838%20hrs%2023%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,238 Contributions in the Year 2025
+> 🏆 1,247 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,11 +96,11 @@ Last Updated: Friday, August 1st, 2025, 12:03:53 AM
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Java                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               30 repos            █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Python                   25 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Java                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+PHP                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 
 
@@ -108,7 +110,7 @@ C                        4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 19:09:40 UTC
+ Last Updated on 31/07/2025 19:08:52 UTC
 <!--END_SECTION:waka-->
 <br />
 
