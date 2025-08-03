@@ -65,13 +65,14 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#5](https://github.com/JFC-Group/JFC-microsip/issues/5) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
-2. ✔️ Closed issue [#97](https://github.com/JFC-Group/JF-Customisation/issues/97) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ❌ Closed PR [#99](https://github.com/JFC-Group/JF-Customisation/pull/99) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+1. ✔️ Closed issue [#104](https://github.com/JFC-Group/JF-Customisation/issues/104) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. ✔️ Closed issue [#5](https://github.com/JFC-Group/JFC-microsip/issues/5) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
+3. ✔️ Closed issue [#97](https://github.com/JFC-Group/JF-Customisation/issues/97) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. ❌ Closed PR [#99](https://github.com/JFC-Group/JF-Customisation/pull/99) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3rd, 2025, 8:52:16 PM
+Last Updated: Sunday, August 3rd, 2025, 9:14:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
