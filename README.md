@@ -85,7 +85,7 @@ Last Updated: Tuesday, August 26th, 2025, 12:00:41 AM
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,283 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,7 +148,7 @@ C                        4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2025 19:02:32 UTC
+ Last Updated on 25/08/2025 19:04:26 UTC
 <!--END_SECTION:waka-->
 <br />
 
