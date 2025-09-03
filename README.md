@@ -69,11 +69,10 @@ I've been learning to code since the last 7 years, started my journey by learnin
 2. ✔️ Closed issue [#96](https://github.com/JFC-Group/JF-Customisation/issues/96) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 3. ✔️ Closed issue [#103](https://github.com/JFC-Group/JF-Customisation/issues/103) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 4. ✔️ Closed issue [#6](https://github.com/JFC-Group/JFC-microsip/issues/6) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)<br>
-5. ✔️ Closed issue [#104](https://github.com/JFC-Group/JF-Customisation/issues/104) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 3rd, 2025, 6:56:10 AM
+Last Updated: Wednesday, September 3rd, 2025, 8:11:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
