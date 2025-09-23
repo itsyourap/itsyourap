@@ -80,15 +80,13 @@ Last Updated: Wednesday, September 24th, 2025, 12:19:49 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C944%20hrs%207%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,414 Contributions in the Year 2025
+> 🏆 1,417 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +111,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 19:02:11 UTC
+ Last Updated on 23/09/2025 19:04:19 UTC
 <!--END_SECTION:waka-->
 <br />
 
