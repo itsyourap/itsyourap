@@ -80,7 +80,7 @@ Last Updated: Sunday, September 28th, 2025, 12:13:19 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
@@ -123,14 +123,14 @@ Sunday                   1081 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-Python                   6 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-Rust                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Prisma                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+TypeScript               10 hrs 11 mins      ███████████░░░░░░░░░░░░░░   44.59 % 
+Python                   7 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Prisma                   1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Bash                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+YAML                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2025 19:02:57 UTC
+ Last Updated on 27/09/2025 19:01:12 UTC
 <!--END_SECTION:waka-->
 <br />
 
