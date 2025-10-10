@@ -1,6 +1,6 @@
 ![itsyourap-github-header](./itsyourap-github-header-image.png)
 
-## I am a Second Year student studying B.Tech in CSE, having a keen interest in contributing to Open Source and developing Android & Web Apps.
+## I am a Third Year student studying B.Tech in CSE, having a keen interest in contributing to Open Source and developing Android & Web Apps.
 
 I've been learning to code since the last 7 years, started my journey by learning Java as my first programming language and then learnt so many new languages such as Python, PHP, Lua, etc..
 
