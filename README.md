@@ -80,7 +80,7 @@ Last Updated: Tuesday, October 14th, 2025, 12:18:38 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C973%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.0%20million%20lines%20of%20code-blue)
 
@@ -123,14 +123,14 @@ Sunday                   1098 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ██████████████████████░░░   86.85 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Prisma                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               5 hrs 6 mins        █████████████████████░░░░   84.77 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Prisma                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Rust                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2025 19:02:25 UTC
+ Last Updated on 13/10/2025 19:02:29 UTC
 <!--END_SECTION:waka-->
 <br />
 
