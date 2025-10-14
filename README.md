@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#214](https://github.com/sujana-kamasany/javacodes/pull/214) in [sujana-kamasany/javacodes](https://github.com/sujana-kamasany/javacodes)<br>
-2. ❌ Closed PR [#213](https://github.com/sujana-kamasany/javacodes/pull/213) in [sujana-kamasany/javacodes](https://github.com/sujana-kamasany/javacodes)<br>
-3. ❌ Closed PR [#212](https://github.com/sujana-kamasany/javacodes/pull/212) in [sujana-kamasany/javacodes](https://github.com/sujana-kamasany/javacodes)<br>
-4. ❌ Closed PR [#211](https://github.com/sujana-kamasany/javacodes/pull/211) in [sujana-kamasany/javacodes](https://github.com/sujana-kamasany/javacodes)<br>
-5. ❌ Closed PR [#210](https://github.com/sujana-kamasany/javacodes/pull/210) in [sujana-kamasany/javacodes](https://github.com/sujana-kamasany/javacodes)<br>
+1. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+2. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+3. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+4. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+5. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 11:08:33 PM
+Last Updated: Tuesday, October 14th, 2025, 11:59:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
