@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
-2. 💪 Opened PR [#6](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
-3. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
-4. 💪 Opened PR [#5](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
-5. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+1. 💪 Opened PR [#7](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
+2. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+3. 💪 Opened PR [#6](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
+4. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+5. 💪 Opened PR [#5](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 8:49:42 PM
+Last Updated: Wednesday, October 15th, 2025, 9:09:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
