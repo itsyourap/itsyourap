@@ -80,13 +80,15 @@ Last Updated: Friday, October 17th, 2025, 12:20:55 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%2010%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 1,469 Contributions in the Year 2025
+> 🏆 1,476 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,6 +96,39 @@ Last Updated: Friday, October 17th, 2025, 12:20:55 AM
  > 
 > 🔑 99 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1582 commits        ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌆 Daytime                1332 commits        ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+🌃 Evening                2493 commits        ███████████░░░░░░░░░░░░░░   43.56 % 
+🌙 Night                  316 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Thursday                 956 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Friday                   710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Saturday                 867 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Sunday                   1093 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Rust                     12 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  12 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,7 +146,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 19:03:56 UTC
+ Last Updated on 16/10/2025 19:04:40 UTC
 <!--END_SECTION:waka-->
 <br />
 
