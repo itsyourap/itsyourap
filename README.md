@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v3.7 (Iconify Disabled)](https://github.com/projectXcloud/openbox/releases/tag/3.7-noiconify) in [projectXcloud/openbox](https://github.com/projectXcloud/openbox)<br>
-2. ⬆️ Pushed undefined commit(s) to [projectXcloud/openbox](https://github.com/projectXcloud/openbox)<br>
+1. ⬆️ Pushed undefined commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+2. ✌️ Released [v3.7 (Iconify Disabled)](https://github.com/projectXcloud/openbox/releases/tag/3.7-noiconify) in [projectXcloud/openbox](https://github.com/projectXcloud/openbox)<br>
 3. ⬆️ Pushed undefined commit(s) to [projectXcloud/openbox](https://github.com/projectXcloud/openbox)<br>
-4. 💪 Opened PR [#7](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
-5. ⬆️ Pushed undefined commit(s) to [itsyourap/IntegriTest](https://github.com/itsyourap/IntegriTest)<br>
+4. ⬆️ Pushed undefined commit(s) to [projectXcloud/openbox](https://github.com/projectXcloud/openbox)<br>
+5. 💪 Opened PR [#7](undefined) in [Student-Chapter-CSE/IntegriTest](https://github.com/Student-Chapter-CSE/IntegriTest)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 26th, 2025, 5:07:15 PM
+Last Updated: Sunday, October 26th, 2025, 6:08:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
