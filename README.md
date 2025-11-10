@@ -80,7 +80,7 @@ Last Updated: Tuesday, November 11th, 2025, 12:00:36 AM
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C974%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C979%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
@@ -96,39 +96,6 @@ Last Updated: Tuesday, November 11th, 2025, 12:00:36 AM
  > 
 > 🔑 101 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1646 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-🌆 Daytime                1418 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌃 Evening                2688 commits        ███████████░░░░░░░░░░░░░░   44.27 % 
-🌙 Night                  320 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   665 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Tuesday                  862 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Wednesday                753 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Thursday                 987 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Friday                   750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Saturday                 911 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Sunday                   1144 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -146,7 +113,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 19:01:14 UTC
+ Last Updated on 10/11/2025 19:03:35 UTC
 <!--END_SECTION:waka-->
 <br />
 
