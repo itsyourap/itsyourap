@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#16](https://github.com/Team-ByteWise/EcoNFT/issues/16) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-2. ✔️ Closed issue [#3](https://github.com/Team-ByteWise/EcoGrow/issues/3) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-3. ✔️ Closed issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-4. ✔️ Closed issue [#1](https://github.com/Team-ByteWise/EcoNFT/issues/1) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-5. ❌ Closed PR [#17](undefined) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+1. ⬆️ Pushed undefined commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+2. ⬆️ Pushed undefined commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+3. ✔️ Closed issue [#16](https://github.com/Team-ByteWise/EcoNFT/issues/16) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+4. ✔️ Closed issue [#3](https://github.com/Team-ByteWise/EcoGrow/issues/3) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
+5. ✔️ Closed issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 16th, 2025, 6:54:42 PM
+Last Updated: Sunday, November 16th, 2025, 7:10:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
