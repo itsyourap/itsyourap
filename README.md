@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-2. ⬆️ Pushed undefined commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
-3. ✔️ Closed issue [#16](https://github.com/Team-ByteWise/EcoNFT/issues/16) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
-4. ✔️ Closed issue [#3](https://github.com/Team-ByteWise/EcoGrow/issues/3) in [Team-ByteWise/EcoGrow](https://github.com/Team-ByteWise/EcoGrow)<br>
-5. ✔️ Closed issue [#2](https://github.com/Team-ByteWise/EcoNFT/issues/2) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
+1. 💪 Opened PR [#106](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
+2. ⬆️ Pushed undefined commit(s) to [itsyourap/CNCVerse-Cloud-Stream-Extension](https://github.com/itsyourap/CNCVerse-Cloud-Stream-Extension)<br>
+3. ⬆️ Pushed undefined commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
+4. ⬆️ Pushed undefined commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+5. ✔️ Closed issue [#16](https://github.com/Team-ByteWise/EcoNFT/issues/16) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 21st, 2025, 7:16:05 PM
+Last Updated: Friday, November 21st, 2025, 7:50:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
