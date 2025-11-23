@@ -65,11 +65,11 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
-2. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
-3. 💪 Opened PR [#2253](undefined) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
-4. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
-5. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
+1. 🗣 Commented on [#2253](https://github.com/recloudstream/cloudstream/pull/2253#issuecomment-3567635988) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+2. 💪 Opened PR [#2253](undefined) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+3. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+4. 🗣 Commented on [#2076](https://github.com/recloudstream/cloudstream/issues/2076#issuecomment-3566612668) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+5. 💪 Opened PR [#106](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
 <!--END_SECTION:activity-->
 
 <br />
