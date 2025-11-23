@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [itsyourap/CNCVerse-Cloud-Stream-Extension](https://github.com/itsyourap/CNCVerse-Cloud-Stream-Extension)<br>
-2. 💪 Opened PR [#106](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
+1. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
+2. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
 3. ⬆️ Pushed undefined commit(s) to [itsyourap/CNCVerse-Cloud-Stream-Extension](https://github.com/itsyourap/CNCVerse-Cloud-Stream-Extension)<br>
-4. ⬆️ Pushed undefined commit(s) to [JFC-Group/AF-Customisation](https://github.com/JFC-Group/AF-Customisation)<br>
-5. ⬆️ Pushed undefined commit(s) to [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)<br>
+4. 💪 Opened PR [#106](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
+5. ⬆️ Pushed undefined commit(s) to [itsyourap/CNCVerse-Cloud-Stream-Extension](https://github.com/itsyourap/CNCVerse-Cloud-Stream-Extension)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 23rd, 2025, 12:00:24 PM
+Last Updated: Sunday, November 23rd, 2025, 12:49:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
