@@ -65,15 +65,15 @@ I've been learning to code since the last 7 years, started my journey by learnin
 ## 🔄 Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2253](undefined) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
+1. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
 2. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
-3. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
-4. ⬆️ Pushed undefined commit(s) to [itsyourap/CNCVerse-Cloud-Stream-Extension](https://github.com/itsyourap/CNCVerse-Cloud-Stream-Extension)<br>
-5. 💪 Opened PR [#106](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
+3. 💪 Opened PR [#2253](undefined) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)<br>
+4. ⬆️ Pushed undefined commit(s) to [itsyourap/cloudstream](https://github.com/itsyourap/cloudstream)<br>
+5. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 23rd, 2025, 2:49:52 PM
+Last Updated: Sunday, November 23rd, 2025, 3:09:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br />
 
