@@ -1,14 +1,11 @@
 ![itsyourap-github-header](./itsyourap-github-header-image.png)
 
-## I am a Third Year student studying B.Tech in CSE, having a keen interest in contributing to Open Source and developing Android & Web Apps.
-
-I've been learning to code since the last 7 years, started my journey by learning Java as my first programming language and then learnt so many new languages such as Python, PHP, Lua, etc..
+## Third Year student studying B.Tech in CSE, having a keen interest in contributing to Open Source
 
 - 🌍 I'm based in West Bengal, India
 - ✉️ You can contact me at [itsyourap@gmail.com](mailto:itsyourap@gmail.com)
-- 🧠 I'm working on improving my skills further right now
 - 🤝 I'm open to collaborating on all types of Open Source Projects
-- ⚡ I have a good sense of humour
+- ℹ️ Find more about me at [itsyourap.is-a.dev](https://itsyourap.is-a.dev/)
 
 <br />
 
