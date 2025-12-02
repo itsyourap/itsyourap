@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
-2. 💪 Opened PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
-3. 🗣 Commented on [#2253](https://github.com/recloudstream/cloudstream/pull/2253#issuecomment-3567635988) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-4. 💪 Opened PR [#2253](undefined) in [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-5. 💪 Opened PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+1. ❌ Merged PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+2. ❌ Merged PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+3. 💪 Opened PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+4. 💪 Opened PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+5. ❌ Merged PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
 <!--END_SECTION:activity-->
 
 <br />
