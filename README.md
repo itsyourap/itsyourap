@@ -62,8 +62,8 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
-2. ❌ Merged PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+1. 🔒 Closed issue [#115](https://github.com/JFC-Group/JF-Customisation/issues/115) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
+2. 🗣 Commented on [#115](https://github.com/JFC-Group/JF-Customisation/issues/115#issuecomment-3706885418) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
 3. 💪 Opened PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
 4. 💪 Opened PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
 5. ❌ Merged PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
