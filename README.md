@@ -74,28 +74,28 @@
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.35%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.39%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 104 Private Repositories 
+> 🔑 105 Private Repositories 
  > 
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    37 repos            █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-TypeScript               33 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Python                   29 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Go                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Shell                    37 repos            █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+TypeScript               33 repos            █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Python                   29 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
@@ -105,7 +105,7 @@ Go                       4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 19:07:31 UTC
+ Last Updated on 03/01/2026 19:05:33 UTC
 <!--END_SECTION:waka-->
 <br />
 
