@@ -62,10 +62,10 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#115](https://github.com/JFC-Group/JF-Customisation/issues/115) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
-2. 🗣 Commented on [#115](https://github.com/JFC-Group/JF-Customisation/issues/115#issuecomment-3706885418) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
-3. 💪 Opened PR [#111](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
-4. 💪 Opened PR [#110](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
+1. 🔒 Closed issue [#8](https://github.com/JFC-Group/JFC-microsip/issues/8) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+2. 🗣 Commented on [#8](https://github.com/JFC-Group/JFC-microsip/issues/8#issuecomment-3709309609) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+3. 🔒 Closed issue [#115](https://github.com/JFC-Group/JF-Customisation/issues/115) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
+4. 🗣 Commented on [#115](https://github.com/JFC-Group/JF-Customisation/issues/115#issuecomment-3706885418) in [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation)
 5. ❌ Merged PR [#108](undefined) in [NivinCNC/CNCVerse-Cloud-Stream-Extension](https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension)
 <!--END_SECTION:activity-->
 
