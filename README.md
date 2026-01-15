@@ -74,7 +74,7 @@
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C124%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C124%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,14 +117,14 @@ Sunday                   1079 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       1 hr 40 mins        ████████████░░░░░░░░░░░░░   46.95 % 
-SQL                      1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
-Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Go                       1 hr 45 mins        ████████████░░░░░░░░░░░░░   47.92 % 
+SQL                      1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Python                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -144,7 +144,7 @@ Go                       5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 19:10:12 UTC
+ Last Updated on 15/01/2026 19:22:10 UTC
 <!--END_SECTION:waka-->
 <br />
 
