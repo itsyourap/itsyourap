@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/JFC-Group/JFC-microsip/issues/10#issuecomment-3790494699) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-2. 🔒 Closed issue [#9](https://github.com/JFC-Group/JFC-microsip/issues/9) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-3. 🗣 Commented on [#9](https://github.com/JFC-Group/JFC-microsip/issues/9#issuecomment-3749374840) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-4. 🔒 Closed issue [#8](https://github.com/JFC-Group/JFC-microsip/issues/8) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-5. 🗣 Commented on [#8](https://github.com/JFC-Group/JFC-microsip/issues/8#issuecomment-3709309609) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+1. ℹ️ Assigned issue [#10](https://github.com/JFC-Group/JFC-microsip/issues/10) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+2. ℹ️ Assigned issue [#11](https://github.com/JFC-Group/JFC-microsip/issues/11) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+3. 🗣 Commented on [#11](https://github.com/JFC-Group/JFC-microsip/issues/11#issuecomment-3812776322) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+4. 🗣 Commented on [#10](https://github.com/JFC-Group/JFC-microsip/issues/10#issuecomment-3812731459) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+5. 🔓 Reopened issue [#10](https://github.com/JFC-Group/JFC-microsip/issues/10) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
 <!--END_SECTION:activity-->
 
 <br />
