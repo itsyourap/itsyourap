@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/itsyourap/cricfy-kodi-plugin/pull/3) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-2. 💪 Opened PR [#3](https://github.com/itsyourap/cricfy-kodi-plugin/pull/3) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-3. 🗣 Commented on [#12](https://github.com/JFC-Group/JFC-microsip/issues/12#issuecomment-3831025268) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-4. 🗣 Commented on [#13](https://github.com/JFC-Group/JFC-microsip/issues/13#issuecomment-3831023663) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
-5. 🔒 Closed issue [#11](https://github.com/JFC-Group/JFC-microsip/issues/11) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+1. 🗣 Commented on [#1](https://github.com/itsyourap/cricfy-kodi-plugin/issues/1#issuecomment-3834560607) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
+2. 🔒 Closed issue [#1](https://github.com/itsyourap/cricfy-kodi-plugin/issues/1) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
+3. 🗣 Commented on [#2](https://github.com/itsyourap/cricfy-kodi-plugin/issues/2#issuecomment-3834545652) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
+4. 🔒 Closed issue [#2](https://github.com/itsyourap/cricfy-kodi-plugin/issues/2) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
+5. 🎉 Merged PR [#3](https://github.com/itsyourap/cricfy-kodi-plugin/pull/3) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
 <!--END_SECTION:activity-->
 
 <br />
