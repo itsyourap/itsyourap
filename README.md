@@ -5,7 +5,7 @@
 - 🌍 I'm based in West Bengal, India
 - ✉️ You can contact me at [itsyourap@gmail.com](mailto:itsyourap@gmail.com)
 - 🤝 I'm open to collaborating on all types of Open Source Projects
-- ℹ️ Find more about me at [itsyourap.is-a.dev](https://itsyourap.is-a.dev/)
+- ℹ️ Find more about me at [itsyourap.dev](https://itsyourap.dev/)
 
 <br />
 
