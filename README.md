@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/itsyourap/cricfy-kodi-plugin/issues/1#issuecomment-3834560607) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-2. 🔒 Closed issue [#1](https://github.com/itsyourap/cricfy-kodi-plugin/issues/1) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-3. 🗣 Commented on [#2](https://github.com/itsyourap/cricfy-kodi-plugin/issues/2#issuecomment-3834545652) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-4. 🔒 Closed issue [#2](https://github.com/itsyourap/cricfy-kodi-plugin/issues/2) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
-5. 🎉 Merged PR [#3](https://github.com/itsyourap/cricfy-kodi-plugin/pull/3) in [itsyourap/cricfy-kodi-plugin](https://github.com/itsyourap/cricfy-kodi-plugin)
+1. 🗣 Commented on [#25](https://github.com/Sbiswas001/NumplexApp/issues/25#issuecomment-3942312932) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)
+2. ℹ️ Labeled issue [#19](https://github.com/Team-ByteWise/EcoNFT/issues/19) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+3. ℹ️ Labeled issue [#18](https://github.com/Team-ByteWise/EcoNFT/issues/18) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+4. ℹ️ Labeled issue [#18](https://github.com/Team-ByteWise/EcoNFT/issues/18) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+5. ℹ️ Labeled issue [#19](https://github.com/Team-ByteWise/EcoNFT/issues/19) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 <!--END_SECTION:activity-->
 
 <br />
