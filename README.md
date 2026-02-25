@@ -74,7 +74,7 @@
 ## 🔄 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C260%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.53%20million%20lines%20of%20code-blue?style=flat)
 
@@ -117,14 +117,14 @@ Sunday                   1222 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
-Python                   3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Terraform                1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-JSON                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+YAML                     3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
+Python                   3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Terraform                3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -144,7 +144,7 @@ Pascal                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 19:48:47 UTC
+ Last Updated on 25/02/2026 19:49:06 UTC
 <!--END_SECTION:waka-->
 <br />
 
