@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/Sbiswas001/NumplexApp/issues/25#issuecomment-3942312932) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)
-2. ℹ️ Labeled issue [#19](https://github.com/Team-ByteWise/EcoNFT/issues/19) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-3. ℹ️ Labeled issue [#18](https://github.com/Team-ByteWise/EcoNFT/issues/18) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-4. ℹ️ Labeled issue [#18](https://github.com/Team-ByteWise/EcoNFT/issues/18) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-5. ℹ️ Labeled issue [#19](https://github.com/Team-ByteWise/EcoNFT/issues/19) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+1. 🗣 Commented on [#23](https://github.com/Team-ByteWise/EcoNFT/issues/23#issuecomment-3958875511) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+2. ℹ️ Assigned issue [#23](https://github.com/Team-ByteWise/EcoNFT/issues/23) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+3. ℹ️ Labeled issue [#23](https://github.com/Team-ByteWise/EcoNFT/issues/23) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+4. ℹ️ Labeled issue [#23](https://github.com/Team-ByteWise/EcoNFT/issues/23) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+5. 🗣 Commented on [#22](https://github.com/Team-ByteWise/EcoNFT/issues/22#issuecomment-3958873824) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 <!--END_SECTION:activity-->
 
 <br />
