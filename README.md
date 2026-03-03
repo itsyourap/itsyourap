@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#30](https://github.com/Team-ByteWise/EcoNFT/issues/30) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-2. ℹ️ Labeled PR [#32](https://github.com/Team-ByteWise/EcoNFT/pull/32) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-3. ℹ️ Labeled PR [#32](https://github.com/Team-ByteWise/EcoNFT/pull/32) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-4. 🔒 Closed issue [#26](https://github.com/Team-ByteWise/EcoNFT/issues/26) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-5. ℹ️ Labeled PR [#31](https://github.com/Team-ByteWise/EcoNFT/pull/31) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+1. 🗣 Commented on [#33](https://github.com/Team-ByteWise/EcoNFT/issues/33#issuecomment-3990626271) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+2. ℹ️ Labeled issue [#33](https://github.com/Team-ByteWise/EcoNFT/issues/33) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+3. ℹ️ Labeled issue [#33](https://github.com/Team-ByteWise/EcoNFT/issues/33) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+4. 🔒 Closed issue [#30](https://github.com/Team-ByteWise/EcoNFT/issues/30) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+5. ℹ️ Labeled PR [#32](https://github.com/Team-ByteWise/EcoNFT/pull/32) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 <!--END_SECTION:activity-->
 
 <br />
