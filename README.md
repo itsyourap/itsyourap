@@ -62,11 +62,11 @@
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#37](https://github.com/Team-ByteWise/EcoNFT/issues/37) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-2. ℹ️ Labeled PR [#40](https://github.com/Team-ByteWise/EcoNFT/pull/40) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+1. 🔒 Closed issue [#25](https://github.com/Sbiswas001/NumplexApp/issues/25) in [Sbiswas001/NumplexApp](https://github.com/Sbiswas001/NumplexApp)
+2. 🔒 Closed issue [#37](https://github.com/Team-ByteWise/EcoNFT/issues/37) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 3. ℹ️ Labeled PR [#40](https://github.com/Team-ByteWise/EcoNFT/pull/40) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-4. 🗣 Commented on [#40](https://github.com/Team-ByteWise/EcoNFT/pull/40#issuecomment-4016278787) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
-5. 🗣 Commented on [#39](https://github.com/Team-ByteWise/EcoNFT/pull/39#issuecomment-4016278605) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+4. ℹ️ Labeled PR [#40](https://github.com/Team-ByteWise/EcoNFT/pull/40) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+5. 🗣 Commented on [#40](https://github.com/Team-ByteWise/EcoNFT/pull/40#issuecomment-4016278787) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 <!--END_SECTION:activity-->
 
 <br />
