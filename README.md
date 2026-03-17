@@ -3,7 +3,7 @@
 ## Third Year student studying B.Tech in CSE, having a keen interest in contributing to Open Source
 
 - 🌍 I'm based in West Bengal, India
-- ✉️ You can contact me at [itsyourap@gmail.com](mailto:itsyourap@gmail.com)
+- ✉️ You can contact me at [contact@itsyourap.dev](mailto:contact@itsyourap.dev)
 - 🤝 I'm open to collaborating on all types of Open Source Projects
 - ℹ️ Find more about me at [itsyourap.dev](https://itsyourap.dev/)
 
