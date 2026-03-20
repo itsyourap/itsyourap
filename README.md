@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-0891b2?style=flat-square&logo=briefcase&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects%20Shipped-8%2B-0891b2?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPA-8.7%20%2F%2010-0891b2?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=itsyourap&color=0891b2&style=flat-square&label=Profile+Views" />
 </p>
 
@@ -19,8 +18,7 @@
 
 I design and build resilient systems — from Kubernetes clusters and CI/CD pipelines to scalable backend services and polished web interfaces.
 
-- 🏢 **DevOps Engineer & Full-Stack Developer** at [ProjectX.Cloud](https://projectx.cloud) *(since March 2024)*
-- 🎓 **B.Tech in CSE** — Academy of Technology, MAKAUT, West Bengal
+- 🏢 **DevOps Engineer & Full-Stack Developer** at [ProjectX.Cloud (YC P26)](https://projectx.cloud) *(since March 2024)*
 - 🌍 Based in **West Bengal, India**
 - 🤝 Open to collaborating on **Open Source Projects**
 - ✉️ [contact@itsyourap.dev](mailto:contact@itsyourap.dev) · 🌐 [itsyourap.dev](https://itsyourap.dev/)
@@ -62,13 +60,8 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|---|---|---|
+| --- | --- | --- |
 | [**RTSP Human Capture**](https://github.com/itsyourap/rtsp-human-capture) | Real-time person detection CLI from RTSP camera streams · [Docs](https://rtsp-human-capture.docs.itsyourap.dev/) | Python, YOLOv4, OpenCV |
-| [**GnosisCode**](https://github.com/itsyourap) | Coding evaluation platform for colleges with real-time code execution & lab monitoring | React, Express.js, PostgreSQL, Docker |
-| [**TechFiesta Backend**](https://github.com/AOTxTechFiesta/) | Event backend handling thousands of registrations & payments with zero downtime | Express.js, TSOA, PostgreSQL, PrismaORM |
-| [**EcoGrow**](https://github.com/Team-ByteWise/frosthacks-2k25) | 🏆 *FrostHacks S01 Top 8 Finalist* — Sustainable ad-revenue platform funding tree planting | Next.js, Express.js, MongoDB, ConductorOSS |
-| [**EcoNFT**](https://github.com/Team-ByteWise/diversion-2k25) | Decentralized platform incentivizing tree planting with NFTs | Next.js, Solidity, HardHat, Web3 |
-| [**Sentry Radar System**](https://github.com/itsyourap) | 🥈 *2nd Prize* — SONAR-based detection system with Android connectivity | Java, Embedded C++, Arduino |
 
 ---
 
