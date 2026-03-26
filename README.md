@@ -117,15 +117,15 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2039%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
  > 
-> 🏆 760 Contributions in the Year 2026
+> 🏆 764 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,6 +133,43 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
  > 
 > 🔑 111 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2194 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌆 Daytime                1974 commits        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+🌃 Evening                3614 commits        ███████████░░░░░░░░░░░░░░   43.97 % 
+🌙 Night                  438 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   916 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Tuesday                  818 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Wednesday                910 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Thursday                 1310 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Friday                   1368 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Saturday                 1398 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Sunday                   1500 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Terraform                5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Markdown                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 45 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -150,7 +187,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:45:06 UTC
+ Last Updated on 26/03/2026 19:54:51 UTC
 <!--END_SECTION:waka-->
 
 ---
