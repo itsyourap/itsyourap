@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C362%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.59%20million%20lines%20of%20code-blue?style=flat)
 
@@ -160,14 +160,14 @@ Sunday                   1530 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-Markdown                 1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Python                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Terraform                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+YAML                     3 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.87 % 
+Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Python                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Terraform                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -187,7 +187,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2026 19:43:16 UTC
+ Last Updated on 11/04/2026 19:34:45 UTC
 <!--END_SECTION:waka-->
 
 ---
