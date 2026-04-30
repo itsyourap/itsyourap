@@ -105,7 +105,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/JFC-Group/JFC-microsip/issues/13) in [JFC-Group/JFC-microsip](https://github.com/JFC-Group/JFC-microsip)
+1. 🚀 Published release [1.0.1](https://github.com/itsyourap/copyfail-go/releases/tag/1.0.1) in [itsyourap/copyfail-go](https://github.com/itsyourap/copyfail-go)
 2. 🔒 Closed issue [#35](https://github.com/Team-ByteWise/EcoNFT/issues/35) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 3. 🔒 Closed issue [#36](https://github.com/Team-ByteWise/EcoNFT/issues/36) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 4. ❌ Closed PR [#39](https://github.com/Team-ByteWise/EcoNFT/pull/39) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
