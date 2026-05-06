@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C514%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.67%20million%20lines%20of%20code-blue?style=flat)
 
@@ -133,6 +133,45 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
  > 
 > 🔑 115 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2439 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌆 Daytime                2118 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+🌃 Evening                4122 commits        ███████████░░░░░░░░░░░░░░   45.03 % 
+🌙 Night                  474 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Tuesday                  982 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Wednesday                969 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Thursday                 1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Friday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Saturday                 1546 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Sunday                   1645 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    33 hrs 24 mins      ████████████████████░░░░░   81.02 % 
+YAML                     4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Python                   2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Terraform                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Java                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+Chrome                   37 hrs 27 mins      ███████████████████████░░   90.82 % 
+VS Code                  3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Unknown Editor           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -150,7 +189,7 @@ HCL                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2026 20:12:16 UTC
+ Last Updated on 06/05/2026 20:25:31 UTC
 <!--END_SECTION:waka-->
 
 ---
