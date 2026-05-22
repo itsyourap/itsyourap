@@ -117,15 +117,13 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C671%20hrs%2012%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.0 MB Used in GitHub's Storage 
  > 
-> 🏆 1,499 Contributions in the Year 2026
+> 🏆 1,512 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,45 +131,6 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
  > 
 > 🔑 116 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2739 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌆 Daytime                2310 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌃 Evening                4809 commits        ████████████░░░░░░░░░░░░░   46.34 % 
-🌙 Night                  519 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1079 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Tuesday                  1057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Wednesday                1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Thursday                 1733 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Friday                   1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Saturday                 1747 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Sunday                   1910 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    58 hrs 19 mins      █████████████████████░░░░   84.20 % 
-Terraform                4 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Python                   2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-YAML                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-SQL                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-
-🔥 Editors: 
-Chrome                   58 hrs 36 mins      █████████████████████░░░░   84.61 % 
-VS Code                  9 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Claude Code              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-```
-
 **I Mostly Code in Shell** 
 
 ```text
@@ -189,7 +148,7 @@ HCL                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:37:34 UTC
+ Last Updated on 22/05/2026 20:34:52 UTC
 <!--END_SECTION:waka-->
 
 ---
