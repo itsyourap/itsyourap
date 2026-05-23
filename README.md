@@ -121,24 +121,24 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 **🐱 My GitHub Data** 
 
-> 📦 4.0 MB Used in GitHub's Storage 
+> 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,512 Contributions in the Year 2026
+> 🏆 1,524 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 36 Public Repositories 
  > 
-> 🔑 116 Private Repositories 
+> 🔑 119 Private Repositories 
  > 
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    79 repos            ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Python                   30 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Java                     16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Go                       15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-HCL                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Shell                    79 repos            ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Python                   30 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Java                     16 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+HCL                      4 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
@@ -148,7 +148,7 @@ HCL                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:34:52 UTC
+ Last Updated on 23/05/2026 20:04:31 UTC
 <!--END_SECTION:waka-->
 
 ---
