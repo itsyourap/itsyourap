@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C828%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C836%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -125,7 +125,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,681 Contributions in the Year 2026
+> 🏆 1,684 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,6 +133,45 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
  > 
 > 🔑 119 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4060 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌆 Daytime                3328 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌃 Evening                7882 commits        ████████████░░░░░░░░░░░░░   49.17 % 
+🌙 Night                  761 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1370 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Tuesday                  1449 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Wednesday                1315 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Thursday                 2928 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Friday                   3298 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Saturday                 2772 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Sunday                   2899 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    42 hrs 21 mins      ████████████████████░░░░░   81.42 % 
+Python                   2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+C++                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔥 Editors: 
+Chrome                   46 hrs 20 mins      ██████████████████████░░░   89.07 % 
+VS Code                  5 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Claude Code              39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -150,7 +189,7 @@ C++                      3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 21:03:53 UTC
+ Last Updated on 10/06/2026 21:27:23 UTC
 <!--END_SECTION:waka-->
 
 ---
