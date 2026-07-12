@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C026%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C031%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -125,11 +125,11 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,890 Contributions in the Year 2026
+> 🏆 1,891 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 119 Private Repositories 
  > 
@@ -160,15 +160,15 @@ Sunday                   3060 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    29 hrs 58 mins      █████████████████░░░░░░░░   67.94 % 
-Python                   8 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Text                     2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Astro                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-JavaScript               51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    28 hrs 22 mins      ████████████████░░░░░░░░░   62.67 % 
+Python                   9 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Text                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JavaScript               51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Astro                    39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Chrome                   33 hrs 55 mins      ███████████████████░░░░░░   76.92 % 
-VS Code                  10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Chrome                   32 hrs 2 mins       ██████████████████░░░░░░░   70.77 % 
+VS Code                  13 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   29.23 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -188,7 +188,7 @@ Dockerfile               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 20:05:05 UTC
+ Last Updated on 12/07/2026 20:05:31 UTC
 <!--END_SECTION:waka-->
 
 ---
