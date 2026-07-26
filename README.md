@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C082%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C084%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -160,15 +160,14 @@ Sunday                   3058 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 58 mins      ███████████████████░░░░░░   75.10 % 
-Text                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Terraform                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    8 hrs 45 mins       █████████████████░░░░░░░░   68.80 % 
+Python                   2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Text                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 27 mins      ██████████████████████░░░   88.51 % 
-VS Code                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Chrome                   11 hrs 42 mins      ███████████████████████░░   92.03 % 
+VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 ```
 
 **I Mostly Code in Shell** 
@@ -188,7 +187,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 20:09:11 UTC
+ Last Updated on 26/07/2026 20:06:45 UTC
 <!--END_SECTION:waka-->
 
 ---
