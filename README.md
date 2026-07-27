@@ -117,7 +117,9 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C084%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%203%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -160,14 +162,19 @@ Sunday                   3058 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    8 hrs 45 mins       █████████████████░░░░░░░░   68.80 % 
-Python                   2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Text                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    7 hrs 59 mins       █████████████████░░░░░░░░   67.55 % 
+Python                   2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Text                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 42 mins      ███████████████████████░░   92.03 % 
-VS Code                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Chrome                   10 hrs 56 mins      ███████████████████████░░   92.36 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Shell** 
@@ -187,7 +194,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 20:06:45 UTC
+ Last Updated on 27/07/2026 20:21:11 UTC
 <!--END_SECTION:waka-->
 
 ---
