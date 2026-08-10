@@ -105,8 +105,8 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/codewithdipesh/ReNeetPaper/pull/4) in [codewithdipesh/ReNeetPaper](https://github.com/codewithdipesh/ReNeetPaper)
-2. 🔒 Closed issue [#35](https://github.com/Team-ByteWise/EcoNFT/issues/35) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
+1. 🎉 Merged PR [#1](https://github.com/itsyourap/triggerd/pull/1) in [itsyourap/triggerd](https://github.com/itsyourap/triggerd)
+2. 💪 Opened PR [#1](https://github.com/itsyourap/triggerd/pull/1) in [itsyourap/triggerd](https://github.com/itsyourap/triggerd)
 3. 🔒 Closed issue [#36](https://github.com/Team-ByteWise/EcoNFT/issues/36) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 4. ❌ Closed PR [#39](https://github.com/Team-ByteWise/EcoNFT/pull/39) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 5. ❌ Closed PR [#38](https://github.com/Team-ByteWise/EcoNFT/pull/38) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
