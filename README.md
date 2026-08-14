@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C881%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C881%20hrs%2016%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-67%20hrs%2043%20mins-blue?style=flat)
 
@@ -127,7 +127,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,054 Contributions in the Year 2026
+> 🏆 2,059 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,17 +140,17 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ```text
 🌞 Morning                5054 commits        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
 🌆 Daytime                3827 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-🌃 Evening                9275 commits        ████████████░░░░░░░░░░░░░   48.75 % 
+🌃 Evening                9280 commits        ████████████░░░░░░░░░░░░░   48.76 % 
 🌙 Night                  870 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday                   1540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Tuesday                  1470 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Tuesday                  1470 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 Wednesday                1602 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Thursday                 3582 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Friday                   3949 commits        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Thursday                 3583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Friday                   3953 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
 Saturday                 3665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 Sunday                   3218 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 ```
@@ -162,22 +162,22 @@ Sunday                   3218 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    24 hrs 55 mins      ██████████████████░░░░░░░   70.62 % 
-Markdown                 2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Python                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Other                    27 hrs 23 mins      ███████████████████░░░░░░   74.82 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Bash                     1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 34 mins      █████████████████████░░░░   83.82 % 
-Claude Code              3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-VS Code                  1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Chrome                   30 hrs 54 mins      █████████████████████░░░░   84.56 % 
+Claude Code              3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+VS Code                  1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (11.49%)
+⏱ AI Coding Time: 4 hrs 3 mins (11.09%)
 
 ✍️ 19,987 lines written by AI, 140 lines written by hand (99.3% AI-written)
 
@@ -199,11 +199,11 @@ Opus                     20,100 lines        ███████████�
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    83 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   34 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-TypeScript               34 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Go                       22 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-JavaScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Shell                    84 repos            ████████░░░░░░░░░░░░░░░░░   33.47 % 
+Python                   34 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+TypeScript               34 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Go                       23 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JavaScript               10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 
 
@@ -213,7 +213,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:59:27 UTC
+ Last Updated on 14/08/2026 19:52:40 UTC
 <!--END_SECTION:waka-->
 
 ---
