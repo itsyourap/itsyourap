@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C885%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%209%20mins-blue?style=flat)
 
@@ -162,23 +162,23 @@ Sunday                   3249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    35 hrs 2 mins       ██████████████████████░░░   89.18 % 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Todotxt                  1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Java                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    33 hrs 38 mins      ██████████████████████░░░   88.95 % 
+Todotxt                  1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Java                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Text                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-Chrome                   37 hrs 31 mins      ████████████████████████░   95.64 % 
-VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Claude Code              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Chrome                   35 hrs 50 mins      ████████████████████████░   94.93 % 
+VS Code                  1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Claude Code              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.09%)
+⏱ AI Coding Time: 25 mins (1.13%)
 
 ✍️ 904 lines written by AI, 29 lines written by hand (96.89% AI-written)
 
@@ -214,7 +214,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 19:30:54 UTC
+ Last Updated on 19/08/2026 19:26:07 UTC
 <!--END_SECTION:waka-->
 
 ---
