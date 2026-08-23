@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C885%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%209%20mins-blue?style=flat)
 
@@ -162,16 +162,16 @@ Sunday                   3249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    31 hrs 47 mins      ███████████████████████░░   90.84 % 
-Todotxt                  1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Java                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Python                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    29 hrs 29 mins      ███████████████████████░░   90.77 % 
+Todotxt                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Java                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   33 hrs 39 mins      ████████████████████████░   96.17 % 
-VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Chrome                   31 hrs 49 mins      ████████████████████████░   97.97 % 
+VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -197,7 +197,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:20:13 UTC
+ Last Updated on 23/08/2026 19:19:30 UTC
 <!--END_SECTION:waka-->
 
 ---
