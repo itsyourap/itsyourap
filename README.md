@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%209%20mins-blue?style=flat)
 
@@ -127,7 +127,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,094 Contributions in the Year 2026
+> 🏆 2,096 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,21 +138,21 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5054 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-🌆 Daytime                3876 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-🌃 Evening                9283 commits        ████████████░░░░░░░░░░░░░   48.65 % 
+🌞 Morning                5055 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌆 Daytime                3877 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌃 Evening                9283 commits        ████████████░░░░░░░░░░░░░   48.64 % 
 🌙 Night                  870 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1546 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Monday                   1548 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 Tuesday                  1475 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 Wednesday                1600 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Thursday                 3583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Thursday                 3583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 Friday                   3965 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Saturday                 3665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Sunday                   3249 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Saturday                 3665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Sunday                   3249 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 ```
 
 
@@ -162,16 +162,16 @@ Sunday                   3249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    29 hrs 29 mins      ███████████████████████░░   90.77 % 
-Todotxt                  2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Java                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    27 hrs 25 mins      ███████████████████████░░   92.03 % 
+Todotxt                  1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Java                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 49 mins      ████████████████████████░   97.97 % 
-VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Chrome                   29 hrs 14 mins      █████████████████████████   98.09 % 
+VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+IntelliJ IDEA            3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -197,7 +197,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:19:30 UTC
+ Last Updated on 24/08/2026 19:29:31 UTC
 <!--END_SECTION:waka-->
 
 ---
