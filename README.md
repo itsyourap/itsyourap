@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C886%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2022%20mins-blue?style=flat)
 
@@ -127,7 +127,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,096 Contributions in the Year 2026
+> 🏆 2,097 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -162,24 +162,24 @@ Sunday                   3249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    31 hrs 29 mins      ████████████████████████░   94.09 % 
-Todotxt                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Terraform                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    29 hrs 17 mins      ████████████████████████░   94.25 % 
+Todotxt                  1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Terraform                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 57 mins      █████████████████████████   98.44 % 
-VS Code                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Chrome                   30 hrs 42 mins      █████████████████████████   98.81 % 
+VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (0.64%)
+⏱ AI Coding Time: 12 mins (0.69%)
 
-✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
 🔤 92,996 Input Tokens, 1,754 Output Tokens
 
@@ -213,7 +213,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:32:05 UTC
+ Last Updated on 26/08/2026 21:28:31 UTC
 <!--END_SECTION:waka-->
 
 ---
