@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2022%20mins-blue?style=flat)
 
@@ -127,7 +127,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 > 📦 4.1 MB Used in GitHub's Storage 
  > 
-> 🏆 2,098 Contributions in the Year 2026
+> 🏆 2,101 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,9 +138,9 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5055 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-🌆 Daytime                3877 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-🌃 Evening                9284 commits        ████████████░░░░░░░░░░░░░   48.64 % 
+🌞 Morning                5055 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌆 Daytime                3880 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+🌃 Evening                9285 commits        ████████████░░░░░░░░░░░░░   48.64 % 
 🌙 Night                  870 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -150,8 +150,8 @@ Monday                   1548 commits        ██░░░░░░░░░�
 Tuesday                  1475 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 Wednesday                1600 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 Thursday                 3583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Friday                   3966 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Saturday                 3665 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Friday                   3967 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Saturday                 3668 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
 Sunday                   3249 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 ```
 
@@ -162,22 +162,22 @@ Sunday                   3249 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    24 hrs 20 mins      ██████████████████████░░░   86.87 % 
-Markdown                 2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Todotxt                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Terraform                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    22 hrs 31 mins      █████████████████████░░░░   85.56 % 
+Markdown                 2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Todotxt                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Terraform                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 39 mins      █████████████████████████   98.76 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Chrome                   25 hrs 58 mins      █████████████████████████   98.68 % 
+VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (0.76%)
+⏱ AI Coding Time: 12 mins (0.81%)
 
 ✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
 
@@ -213,7 +213,7 @@ JavaScript               10 repos            █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 02:08:06 UTC
+ Last Updated on 29/08/2026 21:29:51 UTC
 <!--END_SECTION:waka-->
 
 ---
