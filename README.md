@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C892%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C892%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%2047%20mins-blue?style=flat)
 
@@ -162,22 +162,22 @@ Sunday                   3251 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    22 hrs 17 mins      ████████████████████░░░░░   80.89 % 
-Markdown                 4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Python                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-Todotxt                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    23 hrs 24 mins      ██████████████████████░░░   86.56 % 
+Markdown                 1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Python                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Todotxt                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 29 mins      ████████████████████████░   96.17 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Chrome                   25 hrs 59 mins      ████████████████████████░   96.10 % 
+VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Claude Code              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 mins (1.53%)
+⏱ AI Coding Time: 25 mins (1.56%)
 
 ✍️ 745 lines written by AI, 289 lines written by hand (72.05% AI-written)
 
@@ -213,7 +213,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 21:34:27 UTC
+ Last Updated on 03/09/2026 21:35:16 UTC
 <!--END_SECTION:waka-->
 
 ---
