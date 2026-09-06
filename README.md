@@ -117,9 +117,9 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C897%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.77%20million%20lines%20of%20code-blue?style=flat)
 
@@ -162,38 +162,38 @@ Sunday                   3251 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    27 hrs 42 mins      ███████████████████░░░░░░   77.80 % 
-Markdown                 4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Python                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    27 hrs 36 mins      ████████████████████░░░░░   79.76 % 
+Markdown                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 46 mins      ██████████████████████░░░   86.42 % 
-VS Code                  2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Claude Code              2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Chrome                   29 hrs 27 mins      █████████████████████░░░░   85.13 % 
+VS Code                  2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Claude Code              2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 23 mins (6.73%)
+⏱ AI Coding Time: 2 hrs 35 mins (7.5%)
 
-✍️ 883 lines written by AI, 325 lines written by hand (73.1% AI-written)
+✍️ 1,485 lines written by AI, 361 lines written by hand (80.44% AI-written)
 
-🔤 1,731,816 Input Tokens, 131,757 Output Tokens
+🔤 1,780,900 Input Tokens, 164,964 Output Tokens
 
-💵 $37.20 Estimated AI Cost This Week
+💵 $43.01 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 34 AI Prompts
+🧠 5 AI Sessions, 35 AI Prompts
 
-Opus                     883 lines           █████████████████████████   100.00 % 
+Opus                     1,485 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 73.1% of written lines came from AI
-📄 Detailed Prompter — average 1,492 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 45.89% of changed lines were hand-edited
+🤖 AI-Driven — 80.44% of written lines came from AI
+📄 Detailed Prompter — average 1,456 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 35.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -213,7 +213,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:55:50 UTC
+ Last Updated on 06/09/2026 21:02:24 UTC
 <!--END_SECTION:waka-->
 
 ---
