@@ -105,8 +105,8 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## 🔄 Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/itsyourap/triggerd/pull/1) in [itsyourap/triggerd](https://github.com/itsyourap/triggerd)
-2. 💪 Opened PR [#1](https://github.com/itsyourap/triggerd/pull/1) in [itsyourap/triggerd](https://github.com/itsyourap/triggerd)
+1. ❌ Closed PR [#2](https://github.com/itsyourap/icloud-to-gphotos/pull/2) in [itsyourap/icloud-to-gphotos](https://github.com/itsyourap/icloud-to-gphotos)
+2. 💪 Opened PR [#1](https://github.com/itsyourap/icloud-to-gphotos/pull/1) in [itsyourap/icloud-to-gphotos](https://github.com/itsyourap/icloud-to-gphotos)
 3. 🔒 Closed issue [#36](https://github.com/Team-ByteWise/EcoNFT/issues/36) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 4. ❌ Closed PR [#39](https://github.com/Team-ByteWise/EcoNFT/pull/39) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
 5. ❌ Closed PR [#38](https://github.com/Team-ByteWise/EcoNFT/pull/38) in [Team-ByteWise/EcoNFT](https://github.com/Team-ByteWise/EcoNFT)
