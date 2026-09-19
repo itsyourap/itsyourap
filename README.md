@@ -162,40 +162,40 @@ Sunday                   3251 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    36 hrs 46 mins      ███████████████████░░░░░░   76.92 % 
-JSON                     4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Markdown                 3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Other                    31 hrs 31 mins      ███████████████████░░░░░░   76.20 % 
+JSON                     4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Markdown                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Chrome                   45 hrs 8 mins       ████████████████████████░   94.40 % 
-VS Code                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Codex CLI                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Chrome                   39 hrs 36 mins      ████████████████████████░   95.74 % 
+VS Code                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Codex CLI                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Claude Code              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (4.53%)
+⏱ AI Coding Time: 1 hr 17 mins (3.11%)
 
-✍️ 1,888 lines written by AI, 88 lines written by hand (95.55% AI-written)
+✍️ 1,212 lines written by AI, 88 lines written by hand (93.23% AI-written)
 
-🔤 2,906,192 Input Tokens, 250,198 Output Tokens
+🔤 1,693,861 Input Tokens, 149,029 Output Tokens
 
-💵 $78.33 Estimated AI Cost This Week
+💵 $49.53 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 47 AI Prompts
 
-GPT                      1,776 lines         ███████████████████████░░   91.50 % 
-Opus                     165 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+GPT                      1,047 lines         ██████████████████████░░░   86.39 % 
+Opus                     165 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.55% of written lines came from AI
-📚 Verbose Prompter — average 26,029 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.59% of changed lines were hand-edited
+🤖 AI-Driven — 93.23% of written lines came from AI
+📚 Verbose Prompter — average 27,778 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 9.96% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -215,7 +215,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:31:04 UTC
+ Last Updated on 19/09/2026 21:16:59 UTC
 <!--END_SECTION:waka-->
 
 ---
