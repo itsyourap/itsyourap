@@ -121,7 +121,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -135,6 +135,67 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
  > 
 > 🔑 123 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                5209 commits        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌆 Daytime                4089 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌃 Evening                9592 commits        ████████████░░░░░░░░░░░░░   48.53 % 
+🌙 Night                  876 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1632 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Tuesday                  1540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Wednesday                1628 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Thursday                 3771 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Friday                   4138 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Saturday                 3764 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Sunday                   3293 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    22 hrs 24 mins      ██████████████████░░░░░░░   71.82 % 
+JSON                     4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Markdown                 1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Python                   1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+TypeScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+
+🔥 Editors: 
+Chrome                   29 hrs 35 mins      ████████████████████████░   94.86 % 
+VS Code                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Codex CLI                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 7 mins (3.61%)
+
+✍️ 1,047 lines written by AI, 88 lines written by hand (92.25% AI-written)
+
+🔤 1,687,185 Input Tokens, 141,207 Output Tokens
+
+💵 $49.18 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 46 AI Prompts
+
+GPT                      1,047 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.25% of written lines came from AI
+📚 Verbose Prompter — average 28,381 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 11.35% of changed lines were hand-edited
+```
+
 **I Mostly Code in Shell** 
 
 ```text
@@ -152,7 +213,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 21:16:34 UTC
+ Last Updated on 21/09/2026 22:30:17 UTC
 <!--END_SECTION:waka-->
 
 ---
