@@ -117,11 +117,11 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -138,21 +138,21 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5524 commits        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-🌆 Daytime                4329 commits        █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-🌃 Evening                10107 commits       ████████████░░░░░░░░░░░░░   48.48 % 
-🌙 Night                  886 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+🌞 Morning                5650 commits        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+🌆 Daytime                4425 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌃 Evening                10313 commits       ████████████░░░░░░░░░░░░░   48.47 % 
+🌙 Night                  890 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1657 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Tuesday                  1615 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Wednesday                1693 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Thursday                 4061 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Friday                   4423 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-Saturday                 3999 commits        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Sunday                   3398 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Monday                   1667 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Tuesday                  1645 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Wednesday                1719 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Thursday                 4177 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Friday                   4537 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Saturday                 4093 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Sunday                   3440 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 
 
@@ -162,12 +162,13 @@ Sunday                   3398 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    20 hrs              ████████████████████░░░░░   81.41 % 
-JSON                     4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Other                    13 hrs 53 mins      ███████████████████░░░░░░   77.01 % 
+JSON                     4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 30 mins      █████████████████████████   99.72 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Chrome                   17 hrs 50 mins      █████████████████████████   98.93 % 
+VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -193,7 +194,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 22:02:26 UTC
+ Last Updated on 24/09/2026 22:03:13 UTC
 <!--END_SECTION:waka-->
 
 ---
