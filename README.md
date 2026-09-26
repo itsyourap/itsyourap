@@ -117,11 +117,11 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C917%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.66%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -138,21 +138,21 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                5903 commits        ███████░░░░░░░░░░░░░░░░░░   26.66 % 
-🌆 Daytime                4670 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-🌃 Evening                10662 commits       ████████████░░░░░░░░░░░░░   48.15 % 
-🌙 Night                  908 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🌞 Morning                5966 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌆 Daytime                4718 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+🌃 Evening                10765 commits       ████████████░░░░░░░░░░░░░   48.15 % 
+🌙 Night                  910 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1863 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Tuesday                  1704 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Wednesday                1752 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Thursday                 4282 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Friday                   4635 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-Saturday                 4287 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Sunday                   3620 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Monday                   1868 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Tuesday                  1719 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Wednesday                1765 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Thursday                 4340 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Friday                   4692 commits        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
+Saturday                 4334 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Sunday                   3641 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 
@@ -162,13 +162,13 @@ Sunday                   3620 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 6 mins       ██████████████████████░░░   86.33 % 
-Python                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Other                    11 hrs 39 mins      ██████████████████████░░░   86.13 % 
+Python                   1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 34 mins      █████████████████████████   98.94 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Chrome                   13 hrs 24 mins      █████████████████████████   99.09 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -194,7 +194,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2026 22:05:55 UTC
+ Last Updated on 26/09/2026 21:51:09 UTC
 <!--END_SECTION:waka-->
 
 ---
