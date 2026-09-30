@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
@@ -162,13 +162,12 @@ Sunday                   3714 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    19 hrs 2 mins       █████████████████████░░░░   82.96 % 
-Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    23 hrs 42 mins      ██████████████████████░░░   87.00 % 
+Python                   3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 50 mins      █████████████████████████   99.46 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Chrome                   27 hrs 7 mins       █████████████████████████   99.55 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -194,7 +193,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:56:08 UTC
+ Last Updated on 30/09/2026 22:56:20 UTC
 <!--END_SECTION:waka-->
 
 ---
