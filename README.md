@@ -117,11 +117,11 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C920%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -138,21 +138,21 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6093 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌆 Daytime                4867 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-🌃 Evening                10900 commits       ████████████░░░░░░░░░░░░░   47.85 % 
+🌞 Morning                6097 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌆 Daytime                4868 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+🌃 Evening                10900 commits       ████████████░░░░░░░░░░░░░   47.84 % 
 🌙 Night                  918 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1957 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Tuesday                  1746 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Wednesday                1770 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Thursday                 4352 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Friday                   4706 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Monday                   1956 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Tuesday                  1750 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Wednesday                1772 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Thursday                 4356 commits        █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Friday                   4704 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
 Saturday                 4535 commits        █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Sunday                   3712 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Sunday                   3710 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 
@@ -162,11 +162,13 @@ Sunday                   3712 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    35 hrs              ███████████████████████░░   91.85 % 
-Python                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Other                    29 hrs 41 mins      ███████████████████████░░   90.18 % 
+Python                   2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 6 mins       █████████████████████████   100.00 % 
+Chrome                   32 hrs 36 mins      █████████████████████████   99.08 % 
+VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -178,10 +180,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Shell** 
 
 ```text
-Shell                    126 repos           ██████████░░░░░░░░░░░░░░░   41.04 % 
-Python                   36 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-TypeScript               36 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Go                       31 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Shell                    125 repos           ██████████░░░░░░░░░░░░░░░   40.85 % 
+Python                   36 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               36 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Go                       31 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
 Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
@@ -192,7 +194,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 22:06:45 UTC
+ Last Updated on 04/10/2026 22:11:59 UTC
 <!--END_SECTION:waka-->
 
 ---
