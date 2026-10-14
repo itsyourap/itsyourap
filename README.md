@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C933%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C934%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2059%20mins-blue?style=flat)
 
@@ -162,39 +162,39 @@ Sunday                   4004 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    23 hrs 53 mins      █████████████████░░░░░░░░   66.26 % 
-Go                       2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Python                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    25 hrs 38 mins      ██████████████████░░░░░░░   70.16 % 
+Go                       4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Text                     1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Todotxt                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 29 mins      ███████████████████░░░░░░   76.22 % 
-VS Code                  4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Claude Code              3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Chrome                   30 hrs 16 mins      █████████████████████░░░░   82.83 % 
+VS Code                  4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Claude Code              1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 1 min (11.14%)
+⏱ AI Coding Time: 1 hr 59 mins (5.47%)
 
-✍️ 7,034 lines written by AI, 662 lines written by hand (91.4% AI-written)
+✍️ 2,737 lines written by AI, 592 lines written by hand (82.22% AI-written)
 
-🔤 7,829,878 Input Tokens, 466,138 Output Tokens
+🔤 5,044,867 Input Tokens, 195,921 Output Tokens
 
-💵 $66.31 Estimated AI Cost This Week
+💵 $37.80 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 31 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
 
-Opus                     6,860 lines         █████████████████████░░░░   84.25 % 
-Sonnet                   1,282 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Opus                     2,423 lines         ████████████████░░░░░░░░░   65.40 % 
+Sonnet                   1,282 lines         █████████░░░░░░░░░░░░░░░░   34.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.4% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 8.36% of changed lines were hand-edited
+🤖 AI-Driven — 82.22% of written lines came from AI
+📝 Concise Prompter — average 278 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 14.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -214,7 +214,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 23:25:05 UTC
+ Last Updated on 14/10/2026 22:14:19 UTC
 <!--END_SECTION:waka-->
 
 ---
