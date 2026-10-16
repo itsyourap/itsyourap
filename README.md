@@ -162,22 +162,22 @@ Sunday                   4004 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    27 hrs 41 mins      ██████████████████░░░░░░░   72.85 % 
-Go                       4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-XML                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    24 hrs 48 mins      ██████████████████░░░░░░░   70.86 % 
+Go                       4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Text                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+XML                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 22 mins      █████████████████████░░░░   85.16 % 
-VS Code                  5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Claude Code              31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Chrome                   29 hrs 22 mins      █████████████████████░░░░   83.89 % 
+VS Code                  5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Claude Code              31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 mins (1.4%)
+⏱ AI Coding Time: 31 mins (1.52%)
 
 ✍️ 997 lines written by AI, 542 lines written by hand (64.78% AI-written)
 
@@ -214,7 +214,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 22:07:22 UTC
+ Last Updated on 16/10/2026 22:02:03 UTC
 <!--END_SECTION:waka-->
 
 ---
