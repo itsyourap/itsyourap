@@ -117,7 +117,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C935%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C936%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2059%20mins-blue?style=flat)
 
@@ -162,15 +162,15 @@ Sunday                   4004 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    22 hrs 32 mins      ████████████████████░░░░░   81.38 % 
-Go                       3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-XML                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-TOML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    21 hrs 57 mins      █████████████████████░░░░   82.69 % 
+Go                       3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+XML                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 48 mins      ███████████████████████░░   93.16 % 
-VS Code                  1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Chrome                   25 hrs 13 mins      ████████████████████████░   95.03 % 
+VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -196,7 +196,7 @@ Astro                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 21:15:52 UTC
+ Last Updated on 18/10/2026 21:18:34 UTC
 <!--END_SECTION:waka-->
 
 ---
