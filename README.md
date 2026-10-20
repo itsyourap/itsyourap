@@ -16,7 +16,7 @@
 
 I design and build resilient systems — from Kubernetes clusters and CI/CD pipelines to scalable backend services and polished web interfaces.
 
-- 🏢 **DevOps Engineer & Full-Stack Developer** at [ProjectX.Cloud (YC P26)](https://projectx.cloud) *(since March 2024)*
+- 🏢 **Founding DevOps Engineer & Backend Developer** at [ProjectX Infinity Inc. (YC P26)](https://projectx.cloud) *(since March 2024)*
 - 🌍 Based in **West Bengal, India**
 - 🤝 Open to collaborating on **Open Source Projects**
 - ✉️ [contact@itsyourap.dev](mailto:contact@itsyourap.dev) · 🌐 [itsyourap.dev](https://itsyourap.dev/)
