@@ -115,7 +115,7 @@ I design and build resilient systems — from Kubernetes clusters and CI/CD pipe
 ## ⏱️ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2025%20mins-blue?style=flat)
 
@@ -160,41 +160,41 @@ Sunday                   4587 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    22 hrs 25 mins      █████████████░░░░░░░░░░░░   51.86 % 
-Python                   7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Rust                     6 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Markdown                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Bash                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    22 hrs 43 mins      ███████████████░░░░░░░░░░   61.95 % 
+Python                   7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Markdown                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Rust                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Bash                     43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 16 mins      █████████████████░░░░░░░░   67.70 % 
-Claude Code              12 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-VS Code                  1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Chrome                   29 hrs 35 mins      ████████████████████░░░░░   80.68 % 
+Claude Code              5 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+VS Code                  1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 32 mins (28.99%)
+⏱ AI Coding Time: 5 hrs 48 mins (15.83%)
 
-✍️ 13,914 lines written by AI, 2,749 lines written by hand (83.5% AI-written)
+✍️ 5,863 lines written by AI, 2,029 lines written by hand (74.29% AI-written)
 
-🔤 22,719,120 Input Tokens, 1,590,297 Output Tokens
+🔤 14,719,229 Input Tokens, 762,621 Output Tokens
 
-💵 $263.52 Estimated AI Cost This Week
+💵 $124.82 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 100 AI Prompts
+🧠 6 AI Sessions, 67 AI Prompts
 
-Opus                     11,764 lines        █████████████████████░░░░   83.88 % 
-Sonnet                   2,018 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-GPT                      243 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Opus                     3,698 lines         ████████████████░░░░░░░░░   62.06 % 
+Sonnet                   2,018 lines         ████████░░░░░░░░░░░░░░░░░   33.86 % 
+GPT                      243 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.5% of written lines came from AI
-📄 Detailed Prompter — average 887 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 18.46% of changed lines were hand-edited
+🤖 AI-Driven — 74.29% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 27.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Shell** 
@@ -214,7 +214,7 @@ Rust                     3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/itsyourap/itsyourap/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:54:27 UTC
+ Last Updated on 28/10/2026 23:09:05 UTC
 <!--END_SECTION:waka-->
 
 ---
