@@ -78,6 +78,7 @@ status:
 <!--START_SECTION:activity-->
 | When | | What |
 | :-- | :-: | :-- |
+| `Nov 08` | ⬆️ | Pushed to `main` in [itsyourap/icloud-to-gphotos](https://github.com/itsyourap/icloud-to-gphotos) |
 | `Oct 21` | ⬆️ | Pushed to `master` in [itsyourap/pjproject](https://github.com/itsyourap/pjproject) |
 | `Oct 21` | ⬆️ | Pushed to `jfc` in [JFC-Group/JFC-RusTone](https://github.com/JFC-Group/JFC-RusTone) |
 | `Oct 21` | ⬆️ | Pushed to `main` in [JFC-Group/cloudflared-mipsle](https://github.com/JFC-Group/cloudflared-mipsle) |
