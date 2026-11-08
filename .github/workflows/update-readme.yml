@@ -1,0 +1,107 @@
+name: Update README
+
+# Recent activity + GitHub stat cards + WakaTime card, rendered in-repo by
+# scripts/readme_bot (stdlib Python, no installs, no third-party stat servers).
+#
+# History hygiene:
+#   * SVG cards are published to the `output` branch as ONE parentless commit
+#     that is force-pushed, so that branch never accumulates history.
+#   * `main` only gets a commit when the recent-activity list actually changes.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/readme_bot/**"
+      - ".github/workflows/update-readme.yml"
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Refresh profile README
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      PYTHONPATH: scripts
+      PYTHONUNBUFFERED: "1"
+      README_BOT_OUT: out
+      GH_USER: ${{ github.repository_owner }}
+      # Classic PAT (repo + read:user) so private/org work counts. Falls back to the
+      # workflow token, which only sees public data.
+      GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+      # Personal OAuth token from https://wakatime.com/oauth (API keys are plugin-only since 2026-11-01).
+      WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 1
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Restore last published cards
+        # Keeps the previous card if a step below fails or is skipped (e.g. WakaTime token expired).
+        run: |
+          mkdir -p out
+          if git fetch -q --depth=1 origin output; then
+            git archive FETCH_HEAD | tar -x -C out
+            echo "OLD_TREE=$(git rev-parse 'FETCH_HEAD^{tree}')" >> "$GITHUB_ENV"
+          else
+            echo "No output branch yet; starting fresh."
+          fi
+
+      - name: Recent activity
+        id: activity
+        continue-on-error: true
+        run: python3 -m readme_bot activity
+
+      - name: GitHub stats, streak, languages, commit clock, contributions & trophies
+        id: github
+        continue-on-error: true
+        run: python3 -m readme_bot github
+
+      - name: WakaTime
+        id: wakatime
+        continue-on-error: true
+        run: python3 -m readme_bot wakatime
+
+      - name: Publish cards to the output branch (single commit, force-pushed)
+        run: |
+          export GIT_INDEX_FILE="$RUNNER_TEMP/output.index"
+          git --work-tree=out add -A .
+          tree=$(git write-tree)
+          if [ "$tree" = "${OLD_TREE:-}" ]; then
+            echo "Cards unchanged."
+            exit 0
+          fi
+          commit=$(git commit-tree "$tree" -m "Profile cards ($(date -u +%FT%TZ))")
+          git push --force origin "$commit:refs/heads/output"
+
+      - name: Commit README if the activity list changed
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README unchanged."
+            exit 0
+          fi
+          git commit -m "chore(readme): update recent activity"
+          git push
+
+      - name: Surface failures
+        if: steps.activity.outcome == 'failure' || steps.github.outcome == 'failure' || steps.wakatime.outcome == 'failure'
+        run: |
+          echo "::error::activity=${{ steps.activity.outcome }} github=${{ steps.github.outcome }} wakatime=${{ steps.wakatime.outcome }} (successful parts were still published)"
+          exit 1
