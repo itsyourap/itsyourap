@@ -37,7 +37,7 @@ status:
 
 ### `$ ls ~/toolkit`
 
-<img src="./assets/static/toolkit.svg" width="100%" alt="Toolkit: Go, TypeScript, Python, Java, Rust, Bash · Spring, Node.js, Express, PostgreSQL, MongoDB, SQLite, Prisma · AWS, Azure, GCP, Kubernetes, Docker, Terraform, Linux · GitHub Actions, Git, ArgoCD" />
+<img src="./assets/static/toolkit.svg" width="100%" alt="Toolkit: Go, TypeScript, Python, Java, Rust, Bash · Spring, Node.js, Express, PostgreSQL, MongoDB, SQLite, Prisma, REST, gRPC · AWS, Azure, GCP, Kubernetes, Docker, Terraform, Linux · GitHub Actions, Git, Argo CD, CI/CD, GitOps" />
 
 ### `$ ls ~/projects --featured`
 

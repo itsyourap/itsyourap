@@ -36,10 +36,14 @@ TERMINAL = [
 
 TOOLKIT = [
     ("Languages", ["GoLang", "TypeScript", "Python-Dark", "Java-Dark", "Rust", "Bash-Dark"], []),
-    ("Backend & Data", ["Spring-Dark", "NodeJS-Dark", "ExpressJS-Dark", "PostgreSQL-Dark", "MongoDB", "SQLite", "Prisma"], ["REST", "gRPC"]),
+    ("Backend & Data", ["Spring-Dark", "NodeJS-Dark", "ExpressJS-Dark", "PostgreSQL-Dark", "MongoDB", "SQLite", "Prisma", "REST", "gRPC"], []),
     ("Cloud & Infra", ["AWS-Dark", "Azure-Dark", "GCP-Dark", "Kubernetes", "Docker", "Terraform-Dark", "Linux-Dark"], []),
-    ("Delivery", ["GithubActions-Dark", "Git"], ["ArgoCD", "CI/CD", "GitOps"]),
+    ("Delivery", ["GithubActions-Dark", "Git", "ArgoCD", "CICD", "GitOps"], []),
 ]
+
+
+LABELS = {"CICD": "CI/CD", "ArgoCD": "Argo CD", "GithubActions": "GitHub Actions", "GoLang": "Go", "NodeJS": "Node.js",
+          "ExpressJS": "Express", "PostgreSQL": "PostgreSQL", "GCP": "Google Cloud", "Spring": "Spring Boot"}
 
 
 def _icon_uri(name: str) -> str:
@@ -155,7 +159,7 @@ def toolkit_svg() -> str:
         )
         x = 190
         for name in icons:
-            body.append(f'<image x="{x}" y="{y}" width="{icon}" height="{icon}" href="{_icon_uri(name)}"><title>{esc(name.split("-")[0])}</title></image>')
+            body.append(f'<image x="{x}" y="{y}" width="{icon}" height="{icon}" href="{_icon_uri(name)}"><title>{esc(LABELS.get(name.split("-")[0], name.split("-")[0]))}</title></image>')
             x += icon + gap
         for pill in pills:
             pw = len(pill) * 7.6 + 24

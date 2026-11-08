@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+Additional icons:
+- ArgoCD.svg, gRPC.svg: official Argo and gRPC logos from https://github.com/cncf/artwork,
+  used to identify the projects, subject to the Linux Foundation trademark policy
+  (https://www.linuxfoundation.org/trademark-usage). The gRPC wordmark is recoloured for a dark tile.
+- CICD.svg, GitOps.svg, REST.svg: original designs for this repository.
