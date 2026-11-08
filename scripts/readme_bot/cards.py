@@ -5,7 +5,7 @@ from __future__ import annotations
 import math
 from datetime import date
 
-from .svg import CHROME_H, THEME, card, delay, esc, fmt_int, fmt_short
+from .svg import CHROME_H, MONO, THEME, card, delay, esc, fmt_int, fmt_short
 
 T = THEME
 
@@ -336,6 +336,33 @@ def wakatime_card(wk: dict) -> str:
     body.append(f'<text x="{lx}" y="254" font-size="11.5" class="mono"><tspan class="accent">editors</tspan>  <tspan class="muted">{esc(editors)}</tspan></text>')
     body.append(f'<text x="{lx}" y="274" font-size="11.5" class="mono"><tspan class="accent">os</tspan>       <tspan class="muted">{esc(systems)}</tspan></text>')
     return card(w, h, "~/wakatime/week.log", "\n".join(body), right_label=wk["range"])
+
+
+def views_badge(count: int) -> str:
+    """Profile-views pill sized like the 28px social badges next to it."""
+    label, value = "PROFILE VIEWS", fmt_int(count)
+    left = 34 + len(label) * 7.4 + 12
+    right = len(value) * 8.4 + 26
+    w, h = round(left + right), 28
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Profile views: {value}">
+<title>Profile views: {value}</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{T['accent']}"/><stop offset="1" stop-color="{T['accent2']}"/></linearGradient>
+  <clipPath id="c"><rect width="{w}" height="{h}" rx="6"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="{w}" height="{h}" fill="{T['chrome']}"/>
+  <rect x="{left:.1f}" width="{right:.1f}" height="{h}" fill="{T['bg']}"/>
+  <rect x="{left:.1f}" y="{h - 2}" width="{right:.1f}" height="2" fill="url(#g)"/>
+</g>
+<rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="6" fill="none" stroke="{T['border']}"/>
+<g transform="translate(11 6)" fill="none" stroke="{T['accent']}" stroke-width="1.6">
+  <path d="M1 8s2.8-5 7-5 7 5 7 5-2.8 5-7 5-7-5-7-5z"/><circle cx="8" cy="8" r="2.2" fill="{T['accent']}"/>
+</g>
+<text x="34" y="18" font-family="{MONO}" font-size="11" font-weight="700" letter-spacing="1" fill="{T['muted']}" style="white-space:pre">{label}</text>
+<text x="{left + right / 2:.1f}" y="18.5" text-anchor="middle" font-family="{MONO}" font-size="13" font-weight="800" fill="{T['text']}">{value}</text>
+</svg>
+"""
 
 
 def placeholder_card(w: int, h: int, title: str, message: str) -> str:

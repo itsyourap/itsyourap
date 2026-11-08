@@ -17,7 +17,7 @@ ICONS = Path(__file__).with_name("icons")
 
 NAME = "Ankan Pal"
 ROLE = "Backend & DevOps Engineer"
-TAGLINE = "Founding DevOps Engineer @ ProjectX · West Bengal, India"
+TAGLINE = "Founding DevOps Engineer @ ProjectX Infinity Inc · Hybrid"
 MOTTO = "Good systems begin with clear thinking."
 CHIPS = ["Go", "Kubernetes", "Terraform", "AWS · Azure · GCP", "CI/CD"]
 

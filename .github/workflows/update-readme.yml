@@ -78,6 +78,11 @@ jobs:
         continue-on-error: true
         run: python3 -m readme_bot wakatime
 
+      - name: Profile views
+        id: views
+        continue-on-error: true
+        run: python3 -m readme_bot views
+
       - name: Publish cards to the output branch (single commit, force-pushed)
         run: |
           export GIT_INDEX_FILE="$RUNNER_TEMP/output.index"
@@ -101,7 +106,7 @@ jobs:
           git push
 
       - name: Surface failures
-        if: steps.activity.outcome == 'failure' || steps.github.outcome == 'failure' || steps.wakatime.outcome == 'failure'
+        if: steps.activity.outcome == 'failure' || steps.github.outcome == 'failure' || steps.wakatime.outcome == 'failure' || steps.views.outcome == 'failure'
         run: |
-          echo "::error::activity=${{ steps.activity.outcome }} github=${{ steps.github.outcome }} wakatime=${{ steps.wakatime.outcome }} (successful parts were still published)"
+          echo "::error::activity=${{ steps.activity.outcome }} github=${{ steps.github.outcome }} wakatime=${{ steps.wakatime.outcome }} views=${{ steps.views.outcome }} (successful parts were still published)"
           exit 1

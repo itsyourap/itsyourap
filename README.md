@@ -6,8 +6,10 @@
 <a href="mailto:contact@itsyourap.dev"><img src="./assets/static/badges/email.svg" alt="Email" /></a>
 <a href="https://linkedin.com/in/itsyourap"><img src="./assets/static/badges/linkedin.svg" alt="LinkedIn" /></a>
 <a href="https://x.com/itsyourap"><img src="./assets/static/badges/x.svg" alt="X / Twitter" /></a>
-<a href="https://dev.to/itsyourap"><img src="./assets/static/badges/devto.svg" alt="dev.to" /></a>
-<a href="https://medium.com/@itsyourap"><img src="./assets/static/badges/medium.svg" alt="Medium" /></a>
+<a href="https://itsyourap.dev/blogs"><img src="./assets/static/badges/blog.svg" alt="Blog" /></a>
+<br />
+<img src="https://raw.githubusercontent.com/itsyourap/itsyourap/output/views.svg" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=itsyourap&style=pixel" width="1" height="1" alt="" />
 
 </div>
 

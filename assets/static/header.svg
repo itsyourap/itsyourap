@@ -29,7 +29,7 @@ text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fil
   </g>
   <g class="fade" style="animation-delay:0.25s">
     <text x="40" y="156" font-size="24" font-weight="700" fill="url(#roleGrad)" style="fill:url(#roleGrad)">Backend &amp; DevOps Engineer</text>
-    <text x="40" y="186" font-size="14" class="muted">Founding DevOps Engineer @ ProjectX · West Bengal, India</text>
+    <text x="40" y="186" font-size="14" class="muted">Founding DevOps Engineer @ ProjectX Infinity Inc · Hybrid</text>
   </g>
   <g class="fade" style="animation-delay:0.50s">
     <rect x="40" y="204" width="3" height="22" rx="1.5" fill="#22d3ee"/>

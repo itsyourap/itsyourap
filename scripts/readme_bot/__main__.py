@@ -66,19 +66,37 @@ def cmd_wakatime() -> None:
     write(target, cards.wakatime_card(wakatime.collect()))
 
 
+def cmd_views() -> None:
+    """Read the komarev counter WITHOUT counting a view.
+
+    komarev only increments when GitHub's camo proxy fetches the image (the
+    invisible pixel in README.md does that); any other user agent is a read.
+    """
+    from .http import USER_AGENT
+    import urllib.request
+
+    req = urllib.request.Request(f"https://komarev.com/ghpvc/?username={LOGIN}&style=flat", headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        svg = resp.read().decode()
+    numbers = re.findall(r">([\d,]+)<", svg)
+    if not numbers:
+        raise SystemExit("couldn't find a view count in komarev's response")
+    write(OUT / "views.svg", cards.views_badge(int(numbers[-1].replace(",", ""))))
+
+
 def cmd_static() -> None:
     from . import static
 
     static.build(ROOT)
 
 
-COMMANDS = {"activity": cmd_activity, "github": cmd_github, "wakatime": cmd_wakatime, "static": cmd_static}
+COMMANDS = {"activity": cmd_activity, "github": cmd_github, "wakatime": cmd_wakatime, "views": cmd_views, "static": cmd_static}
 
 
 def main(argv: list[str]) -> int:
-    names = argv or ["activity", "github", "wakatime"]
+    names = argv or ["activity", "github", "wakatime", "views"]
     if names == ["all"]:
-        names = ["activity", "github", "wakatime"]
+        names = ["activity", "github", "wakatime", "views"]
     unknown = [n for n in names if n not in COMMANDS]
     if unknown:
         print(f"unknown command(s): {', '.join(unknown)}; choose from {', '.join(COMMANDS)}", file=sys.stderr)
