@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-label="~/github/languages.json">
+<title>~/github/languages.json</title>
+<style>
+text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+.mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; white-space: pre; }
+.muted { fill: #8b949e; }
+.dim { fill: #4b5563; }
+.accent { fill: #22d3ee; }
+.accent2 { fill: #a78bfa; }
+.ok { fill: #34d399; }
+.fade { animation: fadeIn .6s ease-out both; }
+.grow { animation: growX .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: left center; }
+.rise { animation: growY .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: center bottom; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@keyframes growX { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes growY { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+</style>
+<defs>
+  <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <clipPath id="cardClip"><rect x="0.5" y="0.5" width="499" height="239" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#cardClip)">
+  <rect width="500" height="240" fill="#0b0f14"/>
+  <rect width="500" height="36" fill="#11161d"/>
+  <line x1="0" y1="36" x2="500" y2="36" stroke="#232b36"/>
+  <circle cx="20" cy="18.0" r="5.5" fill="#ff5f57"/>
+  <circle cx="38" cy="18.0" r="5.5" fill="#febc2e"/>
+  <circle cx="56" cy="18.0" r="5.5" fill="#28c840"/>
+  <text x="76" y="22.0" class="mono muted" font-size="12">~/github/languages.json</text>
+  <text x="482" y="22.0" text-anchor="end" class="mono dim" font-size="11">top languages</text>
+  <g transform="translate(0 36)">
+<clipPath id="barClip"><rect x="24" y="22" width="452" height="10" rx="5"/></clipPath>
+<g clip-path="url(#barClip)"><g class="grow"><rect x="24.00" y="22" width="181.54" height="10" fill="#00ADD8"/><rect x="205.54" y="22" width="106.42" height="10" fill="#dea584"/><rect x="311.96" y="22" width="103.19" height="10" fill="#3572A5"/><rect x="415.15" y="22" width="27.67" height="10" fill="#3178c6"/><rect x="442.82" y="22" width="11.51" height="10" fill="#336790"/><rect x="454.34" y="22" width="7.30" height="10" fill="#89e051"/><rect x="461.64" y="22" width="4.97" height="10" fill="#ff5a03"/><rect x="466.61" y="22" width="3.72" height="10" fill="#f1e05a"/><rect x="470.32" y="22" width="5.68" height="10" fill="#4b5563"/></g></g>
+<g class="fade" style="animation-delay:0.20s"><circle cx="29" cy="62" r="5" fill="#00ADD8"/><text x="42" y="66" font-size="13">Go</text><text x="234" y="66" font-size="12" class="mono muted" text-anchor="end">40.2%</text></g>
+<g class="fade" style="animation-delay:0.26s"><circle cx="29" cy="88" r="5" fill="#dea584"/><text x="42" y="92" font-size="13">Rust</text><text x="234" y="92" font-size="12" class="mono muted" text-anchor="end">23.5%</text></g>
+<g class="fade" style="animation-delay:0.32s"><circle cx="29" cy="114" r="5" fill="#3572A5"/><text x="42" y="118" font-size="13">Python</text><text x="234" y="118" font-size="12" class="mono muted" text-anchor="end">22.8%</text></g>
+<g class="fade" style="animation-delay:0.38s"><circle cx="29" cy="140" r="5" fill="#3178c6"/><text x="42" y="144" font-size="13">TypeScript</text><text x="234" y="144" font-size="12" class="mono muted" text-anchor="end">6.1%</text></g>
+<g class="fade" style="animation-delay:0.44s"><circle cx="29" cy="166" r="5" fill="#336790"/><text x="42" y="170" font-size="13">PLpgSQL</text><text x="234" y="170" font-size="12" class="mono muted" text-anchor="end">2.5%</text></g>
+<g class="fade" style="animation-delay:0.50s"><circle cx="265" cy="62" r="5" fill="#89e051"/><text x="278" y="66" font-size="13">Shell</text><text x="470" y="66" font-size="12" class="mono muted" text-anchor="end">1.6%</text></g>
+<g class="fade" style="animation-delay:0.56s"><circle cx="265" cy="88" r="5" fill="#ff5a03"/><text x="278" y="92" font-size="13">Astro</text><text x="470" y="92" font-size="12" class="mono muted" text-anchor="end">1.1%</text></g>
+<g class="fade" style="animation-delay:0.62s"><circle cx="265" cy="114" r="5" fill="#f1e05a"/><text x="278" y="118" font-size="13">JavaScript</text><text x="470" y="118" font-size="12" class="mono muted" text-anchor="end">0.8%</text></g>
+<g class="fade" style="animation-delay:0.68s"><circle cx="265" cy="140" r="5" fill="#4b5563"/><text x="278" y="144" font-size="13">Other</text><text x="470" y="144" font-size="12" class="mono muted" text-anchor="end">1.3%</text></g>
+<text x="24" y="194" font-size="11" class="mono dim">weighted by my last 1,000 commits · incl. private repos</text>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="499" height="239" rx="12" fill="none" stroke="#232b36"/>
+</svg>

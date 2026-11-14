@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="~/wakatime/week.log">
+<title>~/wakatime/week.log</title>
+<style>
+text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
+.mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; white-space: pre; }
+.muted { fill: #8b949e; }
+.dim { fill: #4b5563; }
+.accent { fill: #22d3ee; }
+.accent2 { fill: #a78bfa; }
+.ok { fill: #34d399; }
+.fade { animation: fadeIn .6s ease-out both; }
+.grow { animation: growX .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: left center; }
+.rise { animation: growY .9s cubic-bezier(.2,.8,.2,1) both; transform-box: fill-box; transform-origin: center bottom; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@keyframes growX { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes growY { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+</style>
+<defs>
+  <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/>
+  </linearGradient>
+  <clipPath id="cardClip"><rect x="0.5" y="0.5" width="999" height="329" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#cardClip)">
+  <rect width="1000" height="330" fill="#0b0f14"/>
+  <rect width="1000" height="36" fill="#11161d"/>
+  <line x1="0" y1="36" x2="1000" y2="36" stroke="#232b36"/>
+  <circle cx="20" cy="18.0" r="5.5" fill="#ff5f57"/>
+  <circle cx="38" cy="18.0" r="5.5" fill="#febc2e"/>
+  <circle cx="56" cy="18.0" r="5.5" fill="#28c840"/>
+  <text x="76" y="22.0" class="mono muted" font-size="12">~/wakatime/week.log</text>
+  <text x="982" y="22.0" text-anchor="end" class="mono dim" font-size="11">Nov 7 – Nov 13</text>
+  <g transform="translate(0 36)">
+<text x="24" y="58" font-size="40" font-weight="800" fill="url(#accentGrad)" style="fill:url(#accentGrad)">55h 7m</text>
+<text x="24" y="82" font-size="12.5" class="mono muted">this week · 7h 52m / day avg</text>
+<text x="24" y="108" font-size="11.5" class="mono"><tspan class="dim">all-time:</tspan> 3,629h 49m</text>
+<text x="24" y="126" font-size="11.5" class="mono"><tspan class="dim">ai-assisted:</tspan> 17h 13m</text>
+<text x="24" y="144" font-size="11.5" class="mono"><tspan class="dim">best day:</tspan> Wed, Nov 11 · 15h 25m</text>
+<rect class="rise" style="animation-delay:0.20s" x="24" y="201.2" width="36" height="66.8" rx="5" fill="url(#accentGrad)" opacity="0.86"/><text x="42" y="195.2" font-size="10" class="mono muted" text-anchor="middle">11h 11m</text><text x="42" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Sat</text>
+<rect class="rise" style="animation-delay:0.26s" x="80" y="235.0" width="36" height="33.0" rx="5" fill="url(#accentGrad)" opacity="0.68"/><text x="98" y="229.0" font-size="10" class="mono muted" text-anchor="middle">5h 31m</text><text x="98" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Sun</text>
+<rect class="rise" style="animation-delay:0.32s" x="136" y="259.3" width="36" height="8.7" rx="5" fill="url(#accentGrad)" opacity="0.55"/><text x="154" y="253.3" font-size="10" class="mono muted" text-anchor="middle">1h 27m</text><text x="154" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Mon</text>
+<rect class="rise" style="animation-delay:0.38s" x="192" y="247.0" width="36" height="21.0" rx="5" fill="url(#accentGrad)" opacity="0.61"/><text x="210" y="241.0" font-size="10" class="mono muted" text-anchor="middle">3h 31m</text><text x="210" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Tue</text>
+<rect class="rise" style="animation-delay:0.44s" x="248" y="176.0" width="36" height="92.0" rx="5" fill="url(#accentGrad)" opacity="1.00"/><text x="266" y="170.0" font-size="10" class="mono muted" text-anchor="middle">15h 25m</text><text x="266" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Wed</text>
+<rect class="rise" style="animation-delay:0.50s" x="304" y="205.3" width="36" height="62.7" rx="5" fill="url(#accentGrad)" opacity="0.84"/><text x="322" y="199.3" font-size="10" class="mono muted" text-anchor="middle">10h 30m</text><text x="322" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Thu</text>
+<rect class="rise" style="animation-delay:0.56s" x="360" y="223.2" width="36" height="44.8" rx="5" fill="url(#accentGrad)" opacity="0.74"/><text x="378" y="217.2" font-size="10" class="mono muted" text-anchor="middle">7h 30m</text><text x="378" y="284" font-size="10.5" class="mono dim" text-anchor="middle">Fri</text>
+<line x1="430" y1="20" x2="430" y2="276" stroke="#232b36"/>
+<text x="462" y="30" font-size="12" class="mono accent">languages</text>
+<g class="fade" style="animation-delay:0.15s"><text x="462" y="65" font-size="12.5">Other</text><rect x="582" y="56" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="56" width="137.8" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="65" font-size="11" class="mono muted">29h 12m</text><text x="976" y="65" font-size="11" class="mono dim" text-anchor="end">53%</text></g>
+<g class="fade" style="animation-delay:0.20s"><text x="462" y="91" font-size="12.5">Markdown</text><rect x="582" y="82" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="82" width="27.9" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="91" font-size="11" class="mono muted">5h 54m</text><text x="976" y="91" font-size="11" class="mono dim" text-anchor="end">11%</text></g>
+<g class="fade" style="animation-delay:0.25s"><text x="462" y="117" font-size="12.5">Python</text><rect x="582" y="108" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="108" width="19.8" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="117" font-size="11" class="mono muted">4h 11m</text><text x="976" y="117" font-size="11" class="mono dim" text-anchor="end">8%</text></g>
+<g class="fade" style="animation-delay:0.30s"><text x="462" y="143" font-size="12.5">Lua</text><rect x="582" y="134" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="134" width="12.3" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="143" font-size="11" class="mono muted">2h 36m</text><text x="976" y="143" font-size="11" class="mono dim" text-anchor="end">5%</text></g>
+<g class="fade" style="animation-delay:0.35s"><text x="462" y="169" font-size="12.5">JSON</text><rect x="582" y="160" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="160" width="12.0" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="169" font-size="11" class="mono muted">2h 32m</text><text x="976" y="169" font-size="11" class="mono dim" text-anchor="end">5%</text></g>
+<g class="fade" style="animation-delay:0.40s"><text x="462" y="195" font-size="12.5">Go</text><rect x="582" y="186" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="186" width="10.8" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="195" font-size="11" class="mono muted">2h 17m</text><text x="976" y="195" font-size="11" class="mono dim" text-anchor="end">4%</text></g>
+<g class="fade" style="animation-delay:0.45s"><text x="462" y="221" font-size="12.5">Rust</text><rect x="582" y="212" width="260" height="10" rx="5" fill="#1b222c"/><rect class="grow" x="582" y="212" width="10.5" height="10" rx="5" fill="url(#accentGrad)"/><text x="856" y="221" font-size="11" class="mono muted">2h 13m</text><text x="976" y="221" font-size="11" class="mono dim" text-anchor="end">4%</text></g>
+<text x="462" y="254" font-size="11.5" class="mono"><tspan class="accent">editors</tspan>  <tspan class="muted">Chrome 65% · Claude Code 14% · VS Code 12%</tspan></text>
+<text x="462" y="274" font-size="11.5" class="mono"><tspan class="accent">os</tspan>       <tspan class="muted">Windows 100%</tspan></text>
+  </g>
+</g>
+<rect x="0.5" y="0.5" width="999" height="329" rx="12" fill="none" stroke="#232b36"/>
+</svg>
