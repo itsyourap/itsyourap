@@ -78,6 +78,7 @@ status:
 <!--START_SECTION:activity-->
 | When | | What |
 | :-- | :-: | :-- |
+| `Nov 19` | 🌍 | Open-sourced [itsyourap/jio-acs-sip-creds-vulnerability-poc](https://github.com/itsyourap/jio-acs-sip-creds-vulnerability-poc) |
 | `Nov 18` | ⬆️ | Pushed to `main` in [itsyourap/RusTone](https://github.com/itsyourap/RusTone) |
 | `Nov 11` | 👀 | Reviewed PR [#1](None) in [itsyourap/RusTone](https://github.com/itsyourap/RusTone) |
 | `Nov 11` | ⬆️ | Pushed to `rustone-2.17` in [itsyourap/pjproject](https://github.com/itsyourap/pjproject) |
