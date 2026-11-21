@@ -84,8 +84,6 @@ status:
 | `Nov 11` | ⬆️ | Pushed to `rustone-2.17` in [itsyourap/pjproject](https://github.com/itsyourap/pjproject) |
 | `Nov 08` | ⬆️ | Pushed to `main` in [itsyourap/icloud-to-gphotos](https://github.com/itsyourap/icloud-to-gphotos) |
 | `Oct 21` | ⬆️ | Pushed to `jfc` in [JFC-Group/JFC-RusTone](https://github.com/JFC-Group/JFC-RusTone) |
-| `Oct 21` | ⬆️ | Pushed to `main` in [JFC-Group/cloudflared-mipsle](https://github.com/JFC-Group/cloudflared-mipsle) |
-| `Oct 21` | ⬆️ | Pushed to `main` in [itsyourap/tailscale-custom-builds](https://github.com/itsyourap/tailscale-custom-builds) |
 <!--END_SECTION:activity-->
 
 <details>
